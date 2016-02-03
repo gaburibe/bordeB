@@ -1,0 +1,1207 @@
+_xdc_._6c5cfg({
+ "assetId": "14855877116337498765-14159727355448087317-4",
+ "name": "RUV CARTERA 2013",
+ "description": "Prueba 3",
+ "bounds": {
+  "southWest": {
+   "lat": 14.532098361948302,
+   "lng": -118.40764955087901
+  },
+  "northEast": {
+   "lat": 51.345895,
+   "lng": 97.9283
+  }
+ },
+ "defaultViewport": {
+  "southWest": {
+   "lat": 12.72608429694822,
+   "lng": -139.2846819687502
+  },
+  "northEast": {
+   "lat": 35.60371874069734,
+   "lng": -72.26808040625019
+  }
+ },
+ "layers": [
+  {
+   "layerName": "CARTERA TUBERIA 2013",
+   "layerType": "VECTOR",
+   "assetId": "14855877116337498765-14159727355448087317-4/2",
+   "key": "layer_00002",
+   "defaultOn": false,
+   "bounds": {
+    "southWest": {
+     "lat": 14.70385479,
+     "lng": -117.12316899
+    },
+    "northEast": {
+     "lat": 32.6692841,
+     "lng": -86.76180208
+    }
+   },
+   "layerId": "o:AEpk9sQi5jqakNcMDiSGbdpZoygFqfNsc6S23RB5kfEa3nYfemCSGFN7hCrDaYJxbSFkUY36WRZj8Oqges5m-9gZ",
+   "layerParameters": {
+    "um": "1"
+   }
+  },
+  {
+   "layerName": "CARTERA 1 a 4 parte uno",
+   "layerType": "VECTOR",
+   "assetId": "14855877116337498765-14159727355448087317-4/3",
+   "key": "Cartera1",
+   "defaultOn": false,
+   "bounds": {
+    "southWest": {
+     "lat": 14.87301709,
+     "lng": -117.12362819
+    },
+    "northEast": {
+     "lat": 32.67076703,
+     "lng": -90.03726895
+    }
+   },
+   "layerId": "o:AEpk9sS-F8Vmdxy3Hh0lA9xB_QicomYt0mr1A-HVeiVi_Xbgq4OiJjJCOviCYNn2AR_jRKxocmJrRdVE0pdQm0Cj",
+   "layerParameters": {
+    "um": "1"
+   }
+  },
+  {
+   "layerName": "CARTERA 1 a 4 parte dos",
+   "layerType": "VECTOR",
+   "assetId": "14855877116337498765-14159727355448087317-4/4",
+   "key": "Cartera2",
+   "defaultOn": false,
+   "bounds": {
+    "southWest": {
+     "lat": 15.76099231,
+     "lng": -115.01010101
+    },
+    "northEast": {
+     "lat": 32.4850131,
+     "lng": -86.72740664
+    }
+   },
+   "layerId": "o:AEpk9sQh5_DS-RBLhIZWWA-4OS7qLoz1v0nJV_hSxlscgl_gffZXVUoQ6JewkF7HByGgUyRmSHIREZZ6Tg2s1jey",
+   "layerParameters": {
+    "um": "1"
+   }
+  },
+  {
+   "layerName": "CARTERA 1 a 4 parte tres",
+   "layerType": "VECTOR",
+   "assetId": "14855877116337498765-14159727355448087317-4/5",
+   "key": "Cartera3",
+   "defaultOn": false,
+   "bounds": {
+    "southWest": {
+     "lat": 17.45141036,
+     "lng": -103.65081701
+    },
+    "northEast": {
+     "lat": 27.5366949,
+     "lng": -88.12478293
+    }
+   },
+   "layerId": "o:AEpk9sQaiz9Rsydc-ieiD1A0dP9lk8LDekHd-spX3Q7GpDJl3X5vcbTDHm1W4Kwfw1ssMw3GJkytA3bH8wvuKrUY",
+   "layerParameters": {
+    "um": "1"
+   }
+  },
+  {
+   "layerName": "CARTERA 5 a 7 parte dos",
+   "layerType": "VECTOR",
+   "assetId": "14855877116337498765-14159727355448087317-4/6",
+   "key": "Cartera6",
+   "defaultOn": false,
+   "bounds": {
+    "southWest": {
+     "lat": 16.79339109,
+     "lng": -105.45612123
+    },
+    "northEast": {
+     "lat": 27.23800711,
+     "lng": -98.66986475
+    }
+   },
+   "layerId": "o:AEpk9sTmVcbfs8uuLMtLdgleHYHdRZFHfwalP9kHbdkhY1xFlLc3mro0fsc5rI2mmmqLKoufd6xZ_rXMpNA-yUIe",
+   "layerParameters": {
+    "um": "1"
+   }
+  },
+  {
+   "layerName": "CARTERA 5 a 7 parte tres",
+   "layerType": "VECTOR",
+   "assetId": "14855877116337498765-14159727355448087317-4/7",
+   "key": "Cartera5",
+   "defaultOn": false,
+   "bounds": {
+    "southWest": {
+     "lat": 15.74470855,
+     "lng": -114.99970824
+    },
+    "northEast": {
+     "lat": 32.47888997,
+     "lng": -86.72694557
+    }
+   },
+   "layerId": "o:AEpk9sQ1p8stnUFKGRD1fyctSTzuZUTjCmgkJ9-Xevmo53oPma7GwmaQaIp05oX5Anp630rrgs8AjAo60UCNzkhJ",
+   "layerParameters": {
+    "um": "1"
+   }
+  },
+  {
+   "layerName": "CARTERA 5 a 7 parte uno",
+   "layerType": "VECTOR",
+   "assetId": "14855877116337498765-14159727355448087317-4/8",
+   "key": "Cartera4",
+   "defaultOn": false,
+   "bounds": {
+    "southWest": {
+     "lat": 14.68038572,
+     "lng": -117.11993027
+    },
+    "northEast": {
+     "lat": 32.6692841,
+     "lng": -89.84418179
+    }
+   },
+   "layerId": "o:AEpk9sTHd9h3H0N5G0h9qOHaPwv9txZNIVwAKYWxCucaJjHeZ1flFBZX_hQVEMVhp7MvBZ2ArDFd60CjSR-4H5oQ",
+   "layerParameters": {
+    "um": "1"
+   }
+  },
+  {
+   "layerName": "Bancos",
+   "layerType": "VECTOR",
+   "assetId": "14855877116337498765-14159727355448087317-4/9",
+   "key": "Bancos",
+   "defaultOn": false,
+   "bounds": {
+    "southWest": {
+     "lat": 14.59293671,
+     "lng": -117.1211992
+    },
+    "northEast": {
+     "lat": 32.665494,
+     "lng": -86.74711
+    }
+   },
+   "layerId": "o:AEpk9sTkU0HE8kYad-hK7xdxbkg3ABfWpjZbVWcljy-Lw1J6iVZQCgcxwHsG84Xhj4UjDkBLXNj2rFpekuUU3EEG",
+   "layerParameters": {
+    "um": "1"
+   }
+  },
+  {
+   "layerName": "Escuelas",
+   "layerType": "VECTOR",
+   "assetId": "14855877116337498765-14159727355448087317-4/10",
+   "key": "Escuelas",
+   "defaultOn": false,
+   "bounds": {
+    "southWest": {
+     "lat": 14.559166666666666,
+     "lng": -118.30111111111111
+    },
+    "northEast": {
+     "lat": 32.71640722222222,
+     "lng": -86.72377694444445
+    }
+   },
+   "layerId": "o:AEpk9sRa6PuAyUrFVXAQC13fqRdU0X7ll0f8ZTYokISjeFx96INSZFdy3tneXI9Fp4D7YWPN7S-HyfyCsId7pvyv",
+   "layerParameters": {
+    "um": "1"
+   }
+  },
+  {
+   "layerName": "Centros de Salud",
+   "layerType": "VECTOR",
+   "assetId": "14855877116337498765-14159727355448087317-4/11",
+   "key": "CentrosDeSalud",
+   "defaultOn": false,
+   "bounds": {
+    "southWest": {
+     "lat": 14.595239362469025,
+     "lng": -117.1196750866505
+    },
+    "northEast": {
+     "lat": 32.716925311238285,
+     "lng": -86.72565432732618
+    }
+   },
+   "layerId": "o:AEpk9sStwT0NbuAaEgYpVG-OFqati99JIzIhi0am8j7BMJ2qlTpSFnBcPgNMQY0vt9A__9774Wpt56oyqWfCqx98",
+   "layerParameters": {
+    "um": "1"
+   }
+  },
+  {
+   "layerName": "Reservas Territoriales",
+   "layerType": "VECTOR",
+   "assetId": "14855877116337498765-14159727355448087317-4/12",
+   "key": "ReservasTerritoriales",
+   "defaultOn": false,
+   "bounds": {
+    "southWest": {
+     "lat": 14.840646428936177,
+     "lng": -117.10606527606747
+    },
+    "northEast": {
+     "lat": 32.652864127824095,
+     "lng": -86.83480623493514
+    }
+   },
+   "layerId": "o:AEpk9sQCwlInUwmxNW5pz-MeuEOPEBCYyD53JXDlHSn8c4h2FA1nsqJI-VQiz9G30mPLip5Kg8skyCHszktqGsrA",
+   "layerParameters": {
+    "um": "1"
+   }
+  },
+  {
+   "layerName": "Vivienda abandonada",
+   "layerType": "VECTOR",
+   "assetId": "14855877116337498765-14159727355448087317-4/13",
+   "key": "ViviendaAbandonada",
+   "defaultOn": false,
+   "bounds": {
+    "southWest": {
+     "lat": 14.84162816,
+     "lng": -117.0889593
+    },
+    "northEast": {
+     "lat": 32.67066836,
+     "lng": -86.81767702
+    }
+   },
+   "layerId": "o:AEpk9sTd4NK6BFalVQUg26eSd-nkKO5_eahNHzpD1wDQ9vXiWeKAZ3uEgyP05Lif302UJGJ81QiGM8EeGFt1SgI6",
+   "layerParameters": {
+    "um": "1"
+   }
+  },
+  {
+   "layerName": "Viviendas subsidio",
+   "layerType": "VECTOR",
+   "assetId": "14855877116337498765-14159727355448087317-4/14",
+   "key": "ViviendasSubsidio",
+   "defaultOn": false,
+   "bounds": {
+    "southWest": {
+     "lat": 14.842165,
+     "lng": -116.972945
+    },
+    "northEast": {
+     "lat": 51.345895,
+     "lng": -86.858517
+    }
+   },
+   "layerId": "o:AEpk9sT9LVnv011tk7-Rmu56YsBGcLTiEi6Z7D4qd_JxJkzpoSZd7X8PyBrIn93r87tG2HJm247DpaQaSgkMlQkz",
+   "layerParameters": {
+    "um": "1"
+   }
+  },
+  {
+   "layerName": "Climas",
+   "layerType": "VECTOR",
+   "assetId": "14855877116337498765-14159727355448087317-4/15",
+   "key": "Climas",
+   "defaultOn": false,
+   "bounds": {
+    "southWest": {
+     "lat": 14.534105079000085,
+     "lng": -118.36621828099993
+    },
+    "northEast": {
+     "lat": 32.718750760000034,
+     "lng": -86.7106846339999
+    }
+   },
+   "layerId": "o:AEpk9sRTV2kgpF_C1WhimsOuDl9EzsjhA3ghRcCT87X5HHKr01NRylQLCEiILMgfVCFdMOWoOhtRgj8yLlL3Pypp",
+   "layerParameters": {
+    "um": "1"
+   }
+  },
+  {
+   "layerName": "Regiones Hidrologico Administrativas",
+   "layerType": "VECTOR",
+   "assetId": "14855877116337498765-14159727355448087317-4/16",
+   "key": "RegionesHidrologicoAdministrativas",
+   "defaultOn": false,
+   "bounds": {
+    "southWest": {
+     "lat": 14.532098361948302,
+     "lng": -118.40764955087901
+    },
+    "northEast": {
+     "lat": 32.71865357526209,
+     "lng": -86.70865355953043
+    }
+   },
+   "layerId": "o:AEpk9sSdIpANf73OmGXk8k6NAIMDKZ98nqe2wNSvbSpiAYOaGPqKhqYv-bNVYSjiZQP3Pke2U7znI_IVGjJP9eNH",
+   "layerParameters": {
+    "um": "1"
+   }
+  },
+  {
+   "layerName": "PDU Asentamientos Irregulares",
+   "layerType": "VECTOR",
+   "assetId": "14855877116337498765-14159727355448087317-4/17",
+   "key": "PDUAsentamientosIrregulares",
+   "defaultOn": false,
+   "bounds": {
+    "southWest": {
+     "lat": 16.219731994097064,
+     "lng": -117.11931923698202
+    },
+    "northEast": {
+     "lat": 32.649424257057376,
+     "lng": -87.05386305195069
+    }
+   },
+   "layerId": "o:AEpk9sScOFhqx4bIbPIRXlOizD2JgQhNAzh_mAq8sXoik-tSoYJ-Pa-hQtRNPrsyte5j0n_IFAc6jhBzzvO9aa5q",
+   "layerParameters": {
+    "um": "1"
+   }
+  },
+  {
+   "layerName": "PDU Asentamientos Regulares",
+   "layerType": "VECTOR",
+   "assetId": "14855877116337498765-14159727355448087317-4/18",
+   "key": "PDUAsentamientosRegulares",
+   "defaultOn": false,
+   "bounds": {
+    "southWest": {
+     "lat": 16.70993869735336,
+     "lng": -117.09829302788054
+    },
+    "northEast": {
+     "lat": 32.669252314910935,
+     "lng": -88.17761906312784
+    },
+    "minAlt": 0.0,
+    "maxAlt": 0.0
+   },
+   "layerId": "o:AEpk9sTh9oCdDvc5t4WXovzf2LQQqweNOcDXfHwdZezdGg4eobpFjdGidQEi2-gFJF5SMhGmnAN28i7arL3N-U_3",
+   "layerParameters": {
+    "um": "1"
+   }
+  },
+  {
+   "layerName": "Centros Comerciales",
+   "layerType": "VECTOR",
+   "assetId": "14855877116337498765-14159727355448087317-4/19",
+   "key": "CentrosComerciales",
+   "defaultOn": false,
+   "bounds": {
+    "southWest": {
+     "lat": 14.8901035,
+     "lng": -117.0738983
+    },
+    "northEast": {
+     "lat": 32.6677245,
+     "lng": -86.7416848
+    }
+   },
+   "layerId": "o:AEpk9sTTOI1AnGgj7Bk6yXZvQBy6r50IKKhVOLc7Fx_3f7HR5f7JP-Q4E65yQj70-GKy518eCGn8o_M1ZLju9QDy",
+   "layerParameters": {
+    "um": "1"
+   }
+  },
+  {
+   "layerName": "Centros de Negocios",
+   "layerType": "VECTOR",
+   "assetId": "14855877116337498765-14159727355448087317-4/20",
+   "key": "CentrosDeNegocios",
+   "defaultOn": false,
+   "bounds": {
+    "southWest": {
+     "lat": 14.8907395,
+     "lng": -117.0593796
+    },
+    "northEast": {
+     "lat": 32.6648195,
+     "lng": -86.772914
+    }
+   },
+   "layerId": "o:AEpk9sT8d_DsUuwE2oC6zYFw1PqedFfbS-thHoDj_WLVefK4akMZeGqPw4uQwYzs9QX6yuTzogx58WReZ894x3lv",
+   "layerParameters": {
+    "um": "1"
+   }
+  },
+  {
+   "layerName": "Industria",
+   "layerType": "VECTOR",
+   "assetId": "14855877116337498765-14159727355448087317-4/21",
+   "key": "Industria",
+   "defaultOn": false,
+   "bounds": {
+    "southWest": {
+     "lat": 14.8937815,
+     "lng": -117.0886154
+    },
+    "northEast": {
+     "lat": 32.6696065,
+     "lng": -86.8565125
+    }
+   },
+   "layerId": "o:AEpk9sSPqAZ1NpOeZw7fSFnQAb1H6hWfQ6zrlWW-Liz2OCfE7cUs3ojdnSfbEdHqkoOwOS7u8B38w6VmVimKX6EU",
+   "layerParameters": {
+    "um": "1"
+   }
+  },
+  {
+   "layerName": "Cementerios",
+   "layerType": "VECTOR",
+   "assetId": "14855877116337498765-14159727355448087317-4/22",
+   "key": "Cementerios",
+   "defaultOn": false,
+   "bounds": {
+    "southWest": {
+     "lat": 14.894314,
+     "lng": -117.0612307
+    },
+    "northEast": {
+     "lat": 32.5306925,
+     "lng": -86.8418127
+    }
+   },
+   "layerId": "o:AEpk9sS7n7wbwlj2qNx_9gJ9QWidQqRIKfljdwelzssdQoORRVJV7CofY9ng7Kr6L_wyg4kAX5uhG7SPyzKFmtO-",
+   "layerParameters": {
+    "um": "1"
+   }
+  },
+  {
+   "layerName": "Edificios de Gobierno",
+   "layerType": "VECTOR",
+   "assetId": "14855877116337498765-14159727355448087317-4/23",
+   "key": "EdificiosDeGobierno",
+   "defaultOn": false,
+   "bounds": {
+    "southWest": {
+     "lat": 14.8959075,
+     "lng": -117.0574315
+    },
+    "northEast": {
+     "lat": 32.666867,
+     "lng": -86.821764
+    }
+   },
+   "layerId": "o:AEpk9sQD8vuWObEh0aSEb1P0hLLyq5ZPFe7HiRdBXgESXHywN0GQWhtpqnfZyzqrSRLiKDKRHzRRH3s34j0JDgQG",
+   "layerParameters": {
+    "um": "1"
+   }
+  },
+  {
+   "layerName": "Templos",
+   "layerType": "VECTOR",
+   "assetId": "14855877116337498765-14159727355448087317-4/24",
+   "key": "Templos",
+   "defaultOn": false,
+   "bounds": {
+    "southWest": {
+     "lat": 14.9110735,
+     "lng": -110.9592825
+    },
+    "northEast": {
+     "lat": 31.771268,
+     "lng": -88.3917445
+    }
+   },
+   "layerId": "o:AEpk9sT-XHemprktjxrCVMvOsWrYlH1cU3xOb_OIrZjqKPCfRwBHeIv7E_pjTqTTOenZbw8UM7CngHGHfRZHk9hr",
+   "layerParameters": {
+    "um": "1"
+   }
+  },
+  {
+   "layerName": "Mercados",
+   "layerType": "VECTOR",
+   "assetId": "14855877116337498765-14159727355448087317-4/25",
+   "key": "Mercados",
+   "defaultOn": false,
+   "bounds": {
+    "southWest": {
+     "lat": 16.719922,
+     "lng": -116.9673172
+    },
+    "northEast": {
+     "lat": 32.5004284,
+     "lng": -86.8309245
+    }
+   },
+   "layerId": "o:AEpk9sREvkkqrd_GNm_6U3tMMO3JU_TDh4rvpkgFfO4Jx1RqnDoMQsrGhndxbYzjmi84lkksms9ghjtbh73cCgUV",
+   "layerParameters": {
+    "um": "1"
+   }
+  },
+  {
+   "layerName": "PDU Agua Potable",
+   "layerType": "VECTOR",
+   "assetId": "14855877116337498765-14159727355448087317-4/26",
+   "key": "PDUAguaPotable",
+   "defaultOn": false,
+   "bounds": {
+    "southWest": {
+     "lat": 14.864984863876927,
+     "lng": -117.12400581077043
+    },
+    "northEast": {
+     "lat": 32.67285131215414,
+     "lng": -87.03196620202357
+    }
+   },
+   "layerId": "o:AEpk9sSS2ApZGzdMBhnlFlBHKsSg3deS3Abq-0ZoOLBXHQbGi5qygm2fHu0Q_Fer7U6ZxrPUYK_YzMJaW5BCt519",
+   "layerParameters": {
+    "um": "1"
+   }
+  },
+  {
+   "layerName": "PDU Drenaje",
+   "layerType": "VECTOR",
+   "assetId": "14855877116337498765-14159727355448087317-4/27",
+   "key": "PDUDrenaje",
+   "defaultOn": false,
+   "bounds": {
+    "southWest": {
+     "lat": 14.853330041275552,
+     "lng": -117.12400581077041
+    },
+    "northEast": {
+     "lat": 32.67285131215409,
+     "lng": -86.80245968859788
+    }
+   },
+   "layerId": "o:AEpk9sSGHaCOI11qTfPEOp7ltMsPfXEtIqxmZlHflZ6VOBwceikdNgHrb76vpTHklrbDvRiQVqbCE2QvYR-HaVmG",
+   "layerParameters": {
+    "um": "1"
+   }
+  },
+  {
+   "layerName": "PDU Electricidad",
+   "layerType": "VECTOR",
+   "assetId": "14855877116337498765-14159727355448087317-4/28",
+   "key": "PDUElectricidad",
+   "defaultOn": false,
+   "bounds": {
+    "southWest": {
+     "lat": 14.880436856614438,
+     "lng": -117.12400581077041
+    },
+    "northEast": {
+     "lat": 32.67285131215414,
+     "lng": -86.80245968859788
+    }
+   },
+   "layerId": "o:AEpk9sTGr72jVv-i1mj99X4ji6AOweXuZIrO7_NCiwI6t-RKUza-eZKHLKclcKbF-qNj_5bsc9uFaNGNkVpBrALH",
+   "layerParameters": {
+    "um": "1"
+   }
+  },
+  {
+   "layerName": "PDU Uso de Suelo",
+   "layerType": "VECTOR",
+   "assetId": "14855877116337498765-14159727355448087317-4/29",
+   "key": "PDUUsoDeSuelo",
+   "defaultOn": false,
+   "bounds": {
+    "southWest": {
+     "lat": 14.852729172892447,
+     "lng": -117.12402182927603
+    },
+    "northEast": {
+     "lat": 32.6728513121541,
+     "lng": -86.67040147290368
+    }
+   },
+   "layerId": "o:AEpk9sT0yzi7oiIgI2ttsbHgzZpoIMCSGqqNqaoy-vqcR2pOczd-D5YXOIZ0KjshvFhONVP1ieWdLFFs1046NruK",
+   "layerParameters": {
+    "um": "1"
+   }
+  },
+  {
+   "layerName": "POI Tienda Autoservicio",
+   "layerType": "VECTOR",
+   "assetId": "14855877116337498765-14159727355448087317-4/30",
+   "key": "TiendaAutoservicio",
+   "defaultOn": false,
+   "bounds": {
+    "southWest": {
+     "lat": 14.68018485,
+     "lng": -117.1151748
+    },
+    "northEast": {
+     "lat": 32.66699085,
+     "lng": -86.74621092
+    }
+   },
+   "layerId": "o:AEpk9sT_yoQwsxOraqY-xdvweR6AyxFRVrv_UtRzoQx-6F4ErDmnKhklSwRbJwuJoJQ61H5a7Z59aBM8FBLbAbZa",
+   "layerParameters": {
+    "um": "1"
+   }
+  },
+  {
+   "layerName": "Tienda de Conveniencia",
+   "layerType": "VECTOR",
+   "assetId": "14855877116337498765-14159727355448087317-4/31",
+   "key": "TiendaDeConveniencia",
+   "defaultOn": false,
+   "bounds": {
+    "southWest": {
+     "lat": 14.59219527,
+     "lng": -117.1231633
+    },
+    "northEast": {
+     "lat": 32.66916964,
+     "lng": -86.72440457
+    }
+   },
+   "layerId": "o:AEpk9sQ5hDr_c1KFslMsWycfm7ozt1G8knABa_K8FkJXm7Lf72ANNRUt0ajeT8lOjEBB86MsSfKktEGrTBU7R9Nc",
+   "layerParameters": {
+    "um": "1"
+   }
+  },
+  {
+   "layerName": "Sucursales Bancomer",
+   "layerType": "VECTOR",
+   "assetId": "14855877116337498765-14159727355448087317-4/32",
+   "key": "SucursalesBancomer",
+   "defaultOn": false,
+   "bounds": {
+    "southWest": {
+     "lat": 14.59293671,
+     "lng": -117.1146769
+    },
+    "northEast": {
+     "lat": 32.66486956,
+     "lng": -86.809288
+    }
+   },
+   "layerId": "o:AEpk9sTmyHmfGU6FcEnL1gEfii5x39V49AAo-XCeh74S6k_LAR7btYod_F51ziEZIOHsUU15wFLk2wHKjHYEDFlG",
+   "layerParameters": {
+    "um": "1"
+   }
+  },
+  {
+   "layerName": "Programa VIVE",
+   "layerType": "VECTOR",
+   "assetId": "14855877116337498765-14159727355448087317-4/33",
+   "key": "ProgramaVive (ant)",
+   "defaultOn": false,
+   "bounds": {
+    "southWest": {
+     "lat": 14.7219138,
+     "lng": -117.12316899000001
+    },
+    "northEast": {
+     "lat": 32.66871725,
+     "lng": -86.76431297999999
+    }
+   },
+   "layerId": "o:AEpk9sQAYnl0N8D4ngICvzmuDpAMMtUIHZToukpC9yd60Y-W7d0EVkTs8BTkWROXiYEAHKRsQ8eCgh9TtLK49YiO",
+   "layerParameters": {
+    "um": "1"
+   }
+  },
+  {
+   "layerName": "Colonias",
+   "layerType": "VECTOR",
+   "assetId": "14855877116337498765-14159727355448087317-4/34",
+   "key": "Colonias",
+   "defaultOn": false,
+   "bounds": {
+    "southWest": {
+     "lat": 14.665628180000056,
+     "lng": -117.12421236099993
+    },
+    "northEast": {
+     "lat": 32.67232094600007,
+     "lng": -86.72403737699995
+    }
+   },
+   "layerId": "o:AEpk9sQGwMkc_TYue69Mc7Ndow40RWIwbWdFEa_PscKT7ntR6biV7FHY-1tXY49ApCQLTgdV9v1Gp2824okIdmcT",
+   "layerParameters": {
+    "um": "1"
+   }
+  },
+  {
+   "layerName": "Programa Vive 20130815",
+   "layerType": "VECTOR",
+   "assetId": "14855877116337498765-14159727355448087317-4/35",
+   "key": "ProgramaVive",
+   "defaultOn": false,
+   "bounds": {
+    "southWest": {
+     "lat": 14.7219138,
+     "lng": -117.12316899000001
+    },
+    "northEast": {
+     "lat": 32.66871725,
+     "lng": -86.76431297999999
+    }
+   },
+   "layerId": "o:AEpk9sS5YqGtR8OBrkYnqK8W2YMhj1AQoFftLTXkB_M2aqblQGjpU54dYAqqpaT_B1wCw-c0n08QIvxvhzWwJc79",
+   "layerParameters": {
+    "um": "1"
+   }
+  },
+  {
+   "layerName": "Ofertas",
+   "layerType": "VECTOR",
+   "assetId": "14855877116337498765-14159727355448087317-4/36",
+   "key": "Ofertas1",
+   "defaultOn": false,
+   "bounds": {
+    "southWest": {
+     "lat": 14.6235,
+     "lng": -117.1470473
+    },
+    "northEast": {
+     "lat": 32.7241303,
+     "lng": 97.9283
+    }
+   },
+   "layerId": "o:AEpk9sQarKnvbrNNVvPChJN_3BHKgoty9RpmKKZB0KOyDK5mUvzoGdJw8y_qGugSF6YjldkzHnNdBWoTJFEl-S3Q",
+   "layerParameters": {
+    "um": "1"
+   }
+  },
+  {
+   "layerName": "Vivienda Recuperada 20130902",
+   "layerType": "VECTOR",
+   "assetId": "14855877116337498765-14159727355448087317-4/37",
+   "key": "ViviendaRecuperada",
+   "defaultOn": false,
+   "bounds": {
+    "southWest": {
+     "lat": 14.87058,
+     "lng": -117.1045
+    },
+    "northEast": {
+     "lat": 32.66633203,
+     "lng": -86.80181
+    }
+   },
+   "layerId": "o:AEpk9sR7K65FrmqEPWnT_SAaxIL9sUgeb6QR6yU5Iw6pcpV30dyRJUwkAvyquA762YShdpKMwQC0tHU2e1V2vpLa",
+   "layerParameters": {
+    "um": "1"
+   }
+  },
+  {
+   "layerName": "OFERTA OCTUBRE  2013",
+   "layerType": "VECTOR",
+   "assetId": "14855877116337498765-14159727355448087317-4/38",
+   "key": "Ofertas Octubre 2013",
+   "defaultOn": false,
+   "bounds": {
+    "southWest": {
+     "lat": 14.78333,
+     "lng": -117.12378879999999
+    },
+    "northEast": {
+     "lat": 32.65736,
+     "lng": -86.816
+    }
+   },
+   "layerId": "o:AEpk9sS3fhIv0_7cxgJ2QhQsXM4XsiKuzw-imW6rjWq8OLeb3xMdtVG36MpUf4xCEaAR1mNtr0pm7IME5BdESYn7",
+   "layerParameters": {
+    "um": "1"
+   }
+  },
+  {
+   "layerName": "RESERVA TERRITORIAL 180913",
+   "layerType": "VECTOR",
+   "assetId": "14855877116337498765-14159727355448087317-4/39",
+   "key": "layer_00003",
+   "defaultOn": false,
+   "bounds": {
+    "southWest": {
+     "lat": 14.840646430762135,
+     "lng": -117.1060652860812
+    },
+    "northEast": {
+     "lat": 32.65286408586607,
+     "lng": -86.83480625370579
+    },
+    "minAlt": -11169.052749413262,
+    "maxAlt": 4107.629333333462
+   },
+   "layerId": "o:AEpk9sRXavp3CJtW_aUCJMGs2SQE65yoGDEUI9bDxETzyiKH9C5CEciOUjPh9di-TelN_L9C0cGyNi4RfAZmQcp5",
+   "layerParameters": {
+    "um": "1"
+   }
+  },
+  {
+   "layerName": "Aeropuerto 2",
+   "layerType": "VECTOR",
+   "assetId": "14855877116337498765-14159727355448087317-4/40",
+   "key": "Aeropuertos",
+   "defaultOn": false,
+   "bounds": {
+    "southWest": {
+     "lat": 16.738779,
+     "lng": -116.975162
+    },
+    "northEast": {
+     "lat": 32.5469191,
+     "lng": -86.9226
+    }
+   },
+   "layerId": "o:AEpk9sQ33654tuDE_HyoSom3Cyo4tkDJzd-SBKL0AquS9kYi_Q_Flzcs7ArHFUp29JgPhIinvaqGsPTEUsKkcn5Y",
+   "layerParameters": {
+    "um": "1"
+   }
+  },
+  {
+   "layerName": "LOCALIDADES_2010",
+   "layerType": "VECTOR",
+   "assetId": "14855877116337498765-14159727355448087317-4/41",
+   "key": "Localidades",
+   "defaultOn": false,
+   "bounds": {
+    "southWest": {
+     "lat": 14.535555555599998,
+     "lng": -118.301111111
+    },
+    "northEast": {
+     "lat": 32.7152777778,
+     "lng": -86.73166666669998
+    }
+   },
+   "layerId": "o:AEpk9sS3uDAy49BKJBYoCzvUPA3odocx2M7qNU8Fm6lfHvygXLe2PhaUam_JkPHWZxpkbQ347sXc5_pG9WffloeV",
+   "layerParameters": {
+    "um": "1"
+   }
+  },
+  {
+   "layerName": "CONAVI_Z3_2014",
+   "layerType": "VECTOR",
+   "assetId": "14855877116337498765-14159727355448087317-4/42",
+   "key": "Conavi3",
+   "defaultOn": false,
+   "bounds": {
+    "southWest": {
+     "lat": 15.74503457586086,
+     "lng": -115.01664357140014
+    },
+    "northEast": {
+     "lat": 32.499771668539516,
+     "lng": -86.71186731923737
+    }
+   },
+   "layerId": "o:AEpk9sRuYD1wWy3ydsVWxBhxNPpqJBYKdxLzSyOgQtQvMCIcOQlrznHe1UF2Y2anpZt3-lPFnrFIcgWQq-rCtBA0",
+   "layerParameters": {
+    "um": "1"
+   }
+  },
+  {
+   "layerName": "CONAVI_Z2_2014",
+   "layerType": "VECTOR",
+   "assetId": "14855877116337498765-14159727355448087317-4/43",
+   "key": "Conavi2",
+   "defaultOn": false,
+   "bounds": {
+    "southWest": {
+     "lat": 16.677160624752045,
+     "lng": -105.30025956154994
+    },
+    "northEast": {
+     "lat": 21.69352301548509,
+     "lng": -98.2726309022092
+    }
+   },
+   "layerId": "o:AEpk9sQHlc9wusO-3aN8EqA16lKL0rmP2uX685gMmvmvASgTjoAnY1UGYjskfsBNbH3dhz0xRaIIMc0jpndHn5kl",
+   "layerParameters": {
+    "um": "1"
+   }
+  },
+  {
+   "layerName": "CONAVI_Z1_2014",
+   "layerType": "VECTOR",
+   "assetId": "14855877116337498765-14159727355448087317-4/44",
+   "key": "Conavi1",
+   "defaultOn": false,
+   "bounds": {
+    "southWest": {
+     "lat": 14.857733999842367,
+     "lng": -117.12751464689636
+    },
+    "northEast": {
+     "lat": 32.72565143736178,
+     "lng": -90.4614094409314
+    }
+   },
+   "layerId": "o:AEpk9sSGKAvVgDa_Lu6hzvKvT2OOZxu9a4QrLo6peG8gfbe26raVVI3EQ9Hws7OdXS_SMkN8fU161k8ALSsexE_i",
+   "layerParameters": {
+    "um": "1"
+   }
+  },
+  {
+   "layerName": "CONAVI_2014_Z4",
+   "layerType": "VECTOR",
+   "assetId": "14855877116337498765-14159727355448087317-4/45",
+   "key": "Conavi4",
+   "defaultOn": false,
+   "bounds": {
+    "southWest": {
+     "lat": 17.444684427791994,
+     "lng": -103.65843138097163
+    },
+    "northEast": {
+     "lat": 27.552403602349624,
+     "lng": -88.11157717226148
+    }
+   },
+   "layerId": "o:AEpk9sQLlKeXZjt5XcA4SJdvqZu-yrqqYWczaF_vP8I1LABhdqH6FnOxA5E3ChY_yn-lQPDqk68XRmVpZkLUyALy",
+   "layerParameters": {
+    "um": "1"
+   }
+  },
+  {
+   "layerName": "CONAVI_ZONA1",
+   "layerType": "VECTOR",
+   "assetId": "14855877116337498765-14159727355448087317-4/46",
+   "key": "CONAVI_1_2013",
+   "defaultOn": false,
+   "bounds": {
+    "southWest": {
+     "lat": 14.858633270000041,
+     "lng": -117.12420239999994
+    },
+    "northEast": {
+     "lat": 32.718653575000076,
+     "lng": -90.46236520899993
+    }
+   },
+   "layerId": "o:AEpk9sRc5oG9o__F7JuQdfiPYAhIPDNheBGKCUO3o50A5wahomm8VE1JI9mlYI4nKYZnzUoJKpYriyhjei5Qg-S5",
+   "layerParameters": {
+    "um": "1"
+   }
+  },
+  {
+   "layerName": "CONAVI_ZONA2",
+   "layerType": "VECTOR",
+   "assetId": "14855877116337498765-14159727355448087317-4/47",
+   "key": "CONAVI_2_2013",
+   "defaultOn": false,
+   "bounds": {
+    "southWest": {
+     "lat": 16.67805965200006,
+     "lng": -105.27937968799995
+    },
+    "northEast": {
+     "lat": 21.692623696000055,
+     "lng": -98.27358811399995
+    }
+   },
+   "layerId": "o:AEpk9sQJN9OKgMTvtYaYdPtW0mx-QmO0iDLCcR3xpV0aUCEHqa9_BcPi7tpiA4m7JELRBCCT9qpb5hidA-0aSfxd",
+   "layerParameters": {
+    "um": "1"
+   }
+  },
+  {
+   "layerName": "CONAVI_ZONA3",
+   "layerType": "VECTOR",
+   "assetId": "14855877116337498765-14159727355448087317-4/48",
+   "key": "CONAVI_3_2013",
+   "defaultOn": false,
+   "bounds": {
+    "southWest": {
+     "lat": 15.74953065200009,
+     "lng": -115.01265607758972
+    },
+    "northEast": {
+     "lat": 32.49391316200007,
+     "lng": -86.71318721000617
+    }
+   },
+   "layerId": "o:AEpk9sTChg0r_IWQN6OhUZo022enzLn4FJh9MVAw2lCt4RS6DDuWeyFsY_-_hnovFZAe_I5NGADaG0OBqdaVDqWb",
+   "layerParameters": {
+    "um": "1"
+   }
+  },
+  {
+   "layerName": "CONAVI_ZONA4",
+   "layerType": "VECTOR",
+   "assetId": "14855877116337498765-14159727355448087317-4/49",
+   "key": "CONAVI_4_2013",
+   "defaultOn": false,
+   "bounds": {
+    "southWest": {
+     "lat": 17.44558376300006,
+     "lng": -103.65744968899992
+    },
+    "northEast": {
+     "lat": 27.551504527000077,
+     "lng": -88.11254134599994
+    }
+   },
+   "layerId": "o:AEpk9sT5eVYdE8qZlEdbF-56xoBYhtmqYa5k7BubQ7wzrJLVMcGAeJq3DTWtRTujGnmKHlxPbkJMEY0y9h8xSCtB",
+   "layerParameters": {
+    "um": "1"
+   }
+  },
+  {
+   "layerName": "OFERTAS_04042014",
+   "layerType": "VECTOR",
+   "assetId": "14855877116337498765-14159727355448087317-4/50",
+   "key": "Ofertas_Abril",
+   "defaultOn": false,
+   "bounds": {
+    "southWest": {
+     "lat": 14.78333,
+     "lng": -117.12378879999999
+    },
+    "northEast": {
+     "lat": 32.65736,
+     "lng": -86.816
+    }
+   },
+   "layerId": "o:AEpk9sQchMuhTmxTYCy9g12ZpK5FxRWf76fY7YCbLnkaBAjMhpr4JWHPHtX0jM8lBH9jtVdKE65-YC4RCFK2PoDL",
+   "layerParameters": {
+    "um": "1"
+   }
+  },
+  {
+   "layerName": "VIVIENDA_OFERTA_02092014",
+   "layerType": "VECTOR",
+   "assetId": "14855877116337498765-14159727355448087317-4/51",
+   "key": "Ofertas30042015",
+   "defaultOn": false,
+   "bounds": {
+    "southWest": {
+     "lat": 14.78333,
+     "lng": -117.12378879999999
+    },
+    "northEast": {
+     "lat": 32.65736,
+     "lng": -86.73
+    }
+   },
+   "layerId": "o:AEpk9sT_XQq1RkEDBhTFl-6kMZh5b3pq1RdBLEZJH9_DULivrwPPRg8ualIofGoVeNi5ga52_GarpYocxqCF5imL",
+   "layerParameters": {
+    "um": "1"
+   }
+  },
+  {
+   "layerName": "PCU_U1_2015",
+   "layerType": "VECTOR",
+   "assetId": "14855877116337498765-14159727355448087317-4/52",
+   "key": "layer_00004",
+   "defaultOn": false,
+   "bounds": {
+    "southWest": {
+     "lat": 14.868130030365199,
+     "lng": -117.124142214395
+    },
+    "northEast": {
+     "lat": 32.7181540488232,
+     "lng": -86.73099382282349
+    }
+   },
+   "layerId": "o:AEpk9sTYUeuA0zIuHg51MlSW3AH4YIM_riBbGQ-q1XuyAFu56PWcq9VVGCmA6Q90bd4phXwDxbuM-PSC5ABMxsYH",
+   "layerParameters": {
+    "um": "1"
+   }
+  },
+  {
+   "layerName": "PCU_U2_2015",
+   "layerType": "VECTOR",
+   "assetId": "14855877116337498765-14159727355448087317-4/53",
+   "key": "layer_00005",
+   "defaultOn": false,
+   "bounds": {
+    "southWest": {
+     "lat": 14.8640260001887,
+     "lng": -117.12420240033099
+    },
+    "northEast": {
+     "lat": 32.718457573264,
+     "lng": -86.7132405757562
+    }
+   },
+   "layerId": "o:AEpk9sSXwPSYzQARHk8QzdwGALjD325bR4G3lHR7Bn69QjxXST4BydhMaf3CH_WARiloyklvLBw571LGKeUZtqcG",
+   "layerParameters": {
+    "um": "1"
+   }
+  },
+  {
+   "layerName": "PCU_U3_2015",
+   "layerType": "VECTOR",
+   "assetId": "14855877116337498765-14159727355448087317-4/54",
+   "key": "layer_00006",
+   "defaultOn": false,
+   "bounds": {
+    "southWest": {
+     "lat": 14.85773593866271,
+     "lng": -117.124268881404
+    },
+    "northEast": {
+     "lat": 32.71865357550224,
+     "lng": -86.71040526958748
+    }
+   },
+   "layerId": "o:AEpk9sTaivy1u5ag6gp_OSSIiDBEA39Gs30-Nc0ZvpXl1_j032qCfMTEQSQgturRKEVxl_1hMGdl-SYgtVJoUghL",
+   "layerParameters": {
+    "um": "1"
+   }
+  },
+  {
+   "layerName": "OFERTAS_30042015",
+   "layerType": "VECTOR",
+   "assetId": "14855877116337498765-14159727355448087317-4/55",
+   "key": "Ofertas",
+   "defaultOn": false,
+   "bounds": {
+    "southWest": {
+     "lat": 14.78333,
+     "lng": -117.12378879999999
+    },
+    "northEast": {
+     "lat": 32.65736,
+     "lng": -86.73
+    }
+   },
+   "layerId": "o:AEpk9sSREWHrzk7CTqlw05UbYfGILNEypBxp1Ftv9z_Y2PJhXuzuSKZriz7Kzp-lRN2JbSnBhQcEw0jNj8CPZReP",
+   "layerParameters": {
+    "um": "1"
+   }
+  },
+  {
+   "layerName": "U1_2015_30042015",
+   "layerType": "VECTOR",
+   "assetId": "14855877116337498765-14159727355448087317-4/56",
+   "key": "layer_00007",
+   "defaultOn": false,
+   "bounds": {
+    "southWest": {
+     "lat": 14.868130030365199,
+     "lng": -117.124142214395
+    },
+    "northEast": {
+     "lat": 32.7181540488232,
+     "lng": -86.73099382282349
+    }
+   },
+   "layerId": "o:AEpk9sTPRTE7cA2guxm1N5rr1kZ8stV__7MgkCkHOtLUXB-4yvNdWax8qUt2_agu_q8z6a8MNX4Q2JZYAjm2-tTd",
+   "layerParameters": {
+    "um": "1"
+   }
+  },
+  {
+   "layerName": "DUIS_16062015",
+   "layerType": "VECTOR",
+   "assetId": "14855877116337498765-14159727355448087317-4/57",
+   "key": "DUIS",
+   "defaultOn": true,
+   "bounds": {
+    "southWest": {
+     "lat": 17.781153102588952,
+     "lng": -116.94474294501015
+    },
+    "northEast": {
+     "lat": 32.469519832799406,
+     "lng": -86.87698029634886
+    }
+   },
+   "layerId": "o:AEpk9sQTdR8RqcGeBjEF9FVP2p86fhycbVH9U1KP5UR116JClbmGVHon91DrQPcJjt9ZVBeKLNhzk6VLn-8dfJGq",
+   "layerParameters": {
+    "um": "1"
+   }
+  }
+ ]
+})

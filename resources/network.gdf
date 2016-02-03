@@ -1,0 +1,806 @@
+nodedef>id,url,x,y,weight,nodeType,hardnessValue
+design,,-171,-117,73.78,tag,0.19
+data,,-315,-147,59.12,tag,1
+infographics,,-243,-100,53.45,tag,0.4
+blog,,-134,-149,38.26,tag,0.56
+inspiration,,-85,-116,25.07,tag,0.06
+information,,-58,-193,19.1,tag,0.4
+art,,-106,-53,17.25,tag,0.17
+graphics,,-124,433,14.76,tag,0.18
+statistics,,-233,41,16.45,tag,0.95
+portfolio,,-185,-20,17.07,tag,0.28
+tools,,82,240,12.92,tag,0.62
+interactive,,-284,-23,12.33,tag,0.4
+infographic,,-53,469,12.03,tag,0.35
+research,,310,273,12.1,tag,0.55
+agency,,-164,-300,9.21,tag,0.28
+javascript,,261,137,9.77,tag,0.48
+maps,,-162,-591,10.16,tag,0.4
+webdesign,,252,-433,9.34,tag,0.4
+technology,,62,450,8.68,tag,0.62
+visualisation,,-535,-138,13.74,tag,0.44
+programming,,132,290,8.44,tag,0.59
+software,,301,392,6.72,tag,0.75
+graphic,,-420,303,6.45,tag,0.24
+processing,,-564,-74,7.95,tag,0.35
+blogs,,417,-297,6.91,tag,0.39
+datavisualization,,15,-13,10.05,tag,0.39
+mapping,,3,-544,5.78,tag,0.35
+charts,,298,187,5.65,tag,0.39
+web,,365,-443,6.4,tag,0.39
+interface,,-301,217,6.29,tag,0.35
+studio,,-279,-503,4.05,tag,0.28
+analytics,,-146,272,5.94,tag,0.98
+dataviz,,-424,410,6.05,tag,0.39
+reference,,385,-183,3.9,tag,0.43
+science,,417,-137,4.94,tag,0.82
+books,,189,-309,6.09,tag,0.35
+news,,216,476,3.81,tag,0.39
+flash,,-422,-475,4.44,tag,0.31
+graph,,374,163,3.2,tag,0.47
+interaction,,177,-366,4.78,tag,0.32
+culture,,248,-84,2.52,tag,0.31
+analysis,,417,296,3.13,tag,0.78
+artist,,-326,86,5.16,tag,0.35
+opensource,,179,262,2.76,tag,0.56
+journalism,,-175,-444,3.85,tag,0.35
+generative,,79,128,3.46,tag,0.28
+web2.0,,123,378,3.31,tag,0.39
+library,,174,165,2.27,tag,0.39
+typography,,20,197,2.63,tag,0.28
+people,,419,52,4.94,tag,0.35
+gis,,108,-510,2.82,tag,0.72
+media,,459,-60,2.24,tag,0.35
+informationdesign,,183,63,3.07,tag,0.35
+datamining,,-183,346,4.34,tag,0.56
+math,,337,-67,3.35,tag,0.83
+illustration,,132,61,2.61,tag,0
+digital,,215,-102,2.27,tag,0.31
+economics,,-462,205,1.99,tag,0.43
+innovation,,-103,338,2.81,tag,0.39
+london,,156,-256,1.53,tag,0.28
+usability,,486,29,2.44,tag,0.32
+visual,,292,-105,2.92,tag,0.11
+resources,,297,-232,2.04,tag,0.32
+twitter,,230,367,2.25,tag,0.32
+opendata,,-289,133,3.62,tag,0.56
+map,,35,-5,1.83,tag,0.35
+search,,546,-222,1.95,tag,0.47
+timeline,,222,20,1.03,tag,0.39
+infovis,,-4,-479,3.19,tag,0.32
+business,,244,-205,2.15,tag,0.72
+data_visualization,,-174,631,3.62,tag,0.35
+via:packrati.us,,513,202,2.45,tag,0.43
+designer,,262,-162,2.52,tag,0.28
+ui,,-347,570,1.74,tag,0.32
+architecture,,235,-306,1.76,tag,0.31
+theory,,527,296,1.49,tag,0.69
+geography,,123,-300,1.38,tag,0.35
+graphs,,264,65,2.38,tag,0.43
+data visualization,,-333,493,1.88,tag,0.32
+book,,342,31,3.03,tag,0.28
+visualisingdata.com,http://www.visualisingdata.com/,-422,-205,5.96,url,0
+graphicsociology,http://thesocietypages.org/graphicsociology/,-33,366,5.77,url,0
+blog.oecdfactblog.org,http://blog.oecdfactblog.org/,54,-170,3.16,url,0
+datablog,http://www.guardian.co.uk/news/datablog,-246,-394,3.58,url,0
+datavisualization.ch,http://datavisualization.ch/,-322,330,6.03,url,0
+dataspora.com/blog,http://www.dataspora.com/blog/,-205,332,5.79,url,0
+flowingdata.com,http://flowingdata.com/,-422,-132,5,url,0
+infosthetics.com,http://www.infosthetics.com/,-174,-245,5.73,url,0
+visualcomplexity.com/vc,http://www.visualcomplexity.com/vc/,47,-123,5.4,url,0
+visualjournalism.com,http://visualjournalism.com/,-136,-458,5.46,url,0
+chartporn.org,http://chartporn.org/,69,51,4.04,url,0
+visualizing.org,http://www.visualizing.org/,-276,351,4.86,url,0
+createdigitalmotion.com,http://createdigitalmotion.com/,126,-186,4.57,url,0
+news.designlanguage.com,http://news.designlanguage.com/,-242,191,4.4,url,0
+xkcd.com,http://xkcd.com/,352,-43,2.41,url,0
+blog.wolframalpha.com,http://blog.wolframalpha.com/,445,-263,5.08,url,0
+brainpickings.org,http://www.brainpickings.org/,176,-132,5.09,url,0
+bang.clearscience.info,http://bang.clearscience.info/,311,-170,4.33,url,0
+radar.oreilly.com,http://radar.oreilly.com/,141,458,5.2,url,0
+creativeapplications.net,http://www.creativeapplications.net/,-55,298,6.09,url,0
+informationisbeautiful.net,http://www.informationisbeautiful.net/,-130,168,4.3,url,0
+fellinlovewithdata.com,http://fellinlovewithdata.com/,145,-94,4.45,url,0
+blogs.wsj.com/numbersguy,http://blogs.wsj.com/numbersguy/,-521,156,4.12,url,0
+getprismatic.com,http://getprismatic.com/,333,475,2.16,url,0
+petewarden.typepad.com,http://petewarden.typepad.com/,-113,276,4.71,url,0
+indiemaps.com/blog,http://indiemaps.com/blog/,-270,-615,4.59,url,0
+benfry.com/writing,http://benfry.com/writing/,-197,107,6.42,url,0
+serialconsign.com,http://serialconsign.com/,214,-256,6.03,url,0
+perceptualedge,http://www.perceptualedge.com/,68,-224,5.31,url,0
+excelcharts.com/blog/posts,http://www.excelcharts.com/blog/posts/,-538,77,4.2,url,0
+datajournalismblog.com,http://www.datajournalismblog.com/,-403,-278,3.66,url,0
+eagereyes.org,http://eagereyes.org/,-92,-274,6.15,url,0
+thefunctionalart.com,http://www.thefunctionalart.com/,239,246,3.5,url,0
+good.is/infographics,http://www.good.is/infographics,-28,-273,2.69,url,0
+ilovecharts.tumblr.com,http://ilovecharts.tumblr.com/,134,-38,4.86,url,0
+dailyinfographic.com,http://dailyinfographic.com/,-92,196,3.62,url,0
+infographicsarchive.com,http://www.infographicsarchive.com/,46,187,3.19,url,0
+visualoop.tumblr.com,http://visualoop.tumblr.com/,-37,227,4.8,url,0
+visualizingeconomics.com,http://visualizingeconomics.com/,-496,295,4.49,url,0
+spatialanalysis.co.uk,http://spatialanalysis.co.uk/,99,-576,6.57,url,0
+storiesthroughdata,http://storiesthroughdata.blogs.lincoln.ac.uk/,108,-82,3,url,0
+sethssources.wordpress.com,http://sethssources.wordpress.com/,-204,-454,2,url,0
+datawrangling.com,http://datawrangling.com/,-74,123,3.5,url,0
+infoisbeautifulawards,http://www.informationisbeautifulawards.com/,65,-47,4.76,url,0
+xblog,http://www.xplane.com/xblog/data-visualization/,314,-303,5.36,url,0
+interactive-infographics.com,http://www.interactive-infographics.com/,41,-279,2.38,url,0
+thewhyaxis.info,http://thewhyaxis.info/,-293,-274,4.94,url,0
+ideasillustrated.com/blog,http://ideasillustrated.com/blog/,-416,177,3.2,url,0
+Ben Fry,http://fathom.info,-653,-148,5.52,url,0
+Daniel A.,http://www.daniel-a-becker.de,-34,142,4.51,url,0
+David McCandless,http://www.davidmccandless.com,-354,-225,5.99,url,0
+Jer Thorp,http://blprnt.com,-557,-373,6.36,url,0
+Lisa Strausfeld,http://www.pentagram.com/,-381,108,4.26,url,0
+Manuel Lima,http://www.mslima.com/,170,-213,5.28,url,0
+Marcos Weskamp,http://marumushi.com,111,-409,5.31,url,0
+Moritz Stefaner,http://moritz.stefaner.eu,-350,-75,5.91,url,0
+Stefanie Posavec,http://itsbeenreal.co.uk,-147,50,5.39,url,0
+Santiago Ortiz,http://moebio.com,-499,-273,4.71,url,0
+Jen Lowe,http://www.datatelling.com/,-584,-167,2.99,url,0
+Jason Davies,http://www.jasondavies.com/,314,-370,5.25,url,0
+Mike Bostock,http://bost.ocks.org/mike/,221,128,2.76,url,0
+Willem Tulp,http://tulpinteractive.com/,-270,269,5.37,url,0
+Martin Wattenberg,http://www.bewitched.com/,-17,-213,7.2,url,0
+Edward Tufte,http://www.edwardtufte.com/tufte/,-205,238,5.05,url,0
+Jonathan Harris,http://number27.org/,-16,-107,6.47,url,0
+Eric Fischer,http://www.flickr.com/photos/walkingsf,65,-327,3.74,url,0
+Fernanda Viegas,http://fernandaviegas.com/,395,92,7.85,url,0
+Jerome Cukier,http://www.jeromecukier.net/,-426,75,4.7,url,0
+Jeff Clark,http://neoformix.com/,-407,-51,7.57,url,0
+Nicolas Garcia,http://philogb.github.com/,207,163,2.8,url,0
+Gregor Aisch,http://vis4.net/blog/,-472,-436,4.72,url,0
+Ben Shneiderman,http://www.cs.umd.edu/~ben/,498,74,5.43,url,0
+Francesco Franchi,http://www.francescofranchi.com/,-57,49,4.04,url,0
+Christopher Warnow,http://christopherwarnow.com/portfolio/,16,71,4.36,url,0
+Irene Ros,http://ireneros.com/,16,107,3,url,0
+Lev Manovich,http://lab.softwarestudies.com/,323,327,4.98,url,0
+Nicholas Felton,http://feltron.com/,-340,262,4.71,url,0
+Szucs Krisztina,http://webecset.hu/,166,-8,1.5,url,0
+Stephen Wolfram,http://blog.stephenwolfram.com/,264,-41,2.14,url,0
+Scott Murray,http://alignedleft.com/,-514,49,4,url,0
+Matthew Ericson,http://www.ericson.net/content/,-247,-230,5.66,url,0
+Mahir M.,http://casualdata.com/,-534,232,5.71,url,0
+Jim Vallandingham,http://vallandingham.me/,144,31,3,url,0
+Martin Oberhaeuser,http://www.behance.net/Oberhaeuser,-122,6,6.2,url,0
+Benedikt Groß,http://www.looksgood.de/log/,60,109,6.62,url,0
+Katy Börner,http://ella.slis.indiana.edu/~katy/,293,-10,2,url,0
+Rachel Binx,http://rachelbinx.com/,-440,-336,4.5,url,0
+Aaron Koblin,http://www.aaronkoblin.com/,-609,116,6.42,url,0
+Golan Levin,http://www.flong.com/,-562,-17,5.31,url,0
+Applied Works,http://www.appliedworks.co.uk,183,-485,5.56,url,0
+BERG,http://berglondon.com,142,-369,4.09,url,0
+Bestiario,http://www.bestiario.org,-389,-512,6.72,url,0
+Catalogtree,http://catalogtree.net,-1,163,5.68,url,0
+Bloom,http://bloom.io,51,-428,4.36,url,0
+Density Design,http://www.densitydesign.org,-190,153,4.42,url,0
+Envis Precisely,http://envis-precisely.com,61,-351,3,url,0
+Field,http://www.field.io,-37,-6,5.32,url,0
+Flink Labs,http://www.flinklabs.com,-583,-286,6.42,url,0
+InfoMotor,http://www.infomotor.com,201,-24,2.5,url,0
+Interactive Things,http://interactivethings.com,-339,-356,4.8,url,0
+Ito World,http://itoworld.com,-62,-499,4.23,url,0
+JESS3,http://jess3.com,102,-7,5.52,url,0
+Juice Analytics,http://www.juiceanalytics.com,-179,208,4.53,url,0
+Oblong Industries,http://oblong.com/,-234,497,5.47,url,0
+Periscopic,http://periscopic.com,-284,-329,5.91,url,0
+Pitch Interactive,http://www.pitchinteractive.com/,-662,1,7.5,url,0
+Potion Design,http://potiondesign.com/,-96,131,3.77,url,0
+Rhiza Labs,http://www.rhizalabs.com,-111,-623,7.33,url,0
+Seed Media,http://seedmediagroup.com,470,-118,4.84,url,0
+Taco Labs,http://blog.tacolab.com,-375,239,4.13,url,0
+Vizzuality,http://www.vizzuality.com,-203,-548,5.96,url,0
+OOM,http://www.oomcreative.com/,-26,-427,3.99,url,0
+FFunction,http://ffctn.com/,89,-146,5.74,url,0
+Plaid,http://www.plaid-creative.com/,-278,-438,2.66,url,0
+Visup,http://www.visup.it/,-163,-353,4,url,0
+Data Republic,http://www.thedatarepublic.com/,-239,415,3.16,url,0
+Data Market,http://datamarket.com/,-95,232,3.43,url,0
+NYT labs,http://nytlabs.com/,69,511,6.2,url,0
+tracemedia,http://tracemedia.co.uk/,-464,-48,5,url,0
+stamen,http://stamen.com/,-374,-419,5.52,url,0
+R,http://www.r-project.org/,174,328,3.88,url,0
+Gephi,http://gephi.org/,418,387,6.32,url,0
+Quadrigram,http://quadrigram.com/,-367,377,4.08,url,0
+Many Eyes,http://www-958.ibm.com/software/data/cognos/manyeyes/,-248,124,5.52,url,0
+Tableau Software,http://www.tableausoftware.com/,36,352,5.64,url,0
+Plot.io,http://www.plot.io/,-379,37,3.5,url,0
+infogr.am,http://www.infogr.am/,70,264,3.51,url,0
+Google chart,http://code.google.com/apis/chart/,377,222,3.43,url,0
+Gapminder,http://www.gapminder.org/,-459,115,3.41,url,0
+d3,http://mbostock.github.com/d3/,11,268,3.23,url,0
+Infovis,http://thejit.org/,333,149,3.19,url,0
+wordle,http://www.wordle.net/,69,299,4.63,url,0
+wolfram|alpha,http://www.wolframalpha.com/,396,-100,3.71,url,0
+create.visual.ly,http://create.visual.ly/,-84,430,2.92,url,0
+Polychart,http://polychart.com/,223,75,4,url,0
+Miso,http://misoproject.com/,125,195,4.49,url,0
+envision,http://www.humblesoftware.com/envision,189,202,2.47,url,0
+geocommons,http://geocommons.com/,-18,-615,4.49,url,0
+timeline.verite,http://timeline.verite.co/,138,114,2.58,url,0
+DataKind,http://datakind.org/,-348,160,2.5,url,0
+Visual Complexity,http://www.visualcomplexity.com/vc/book/,311,35,5.21,url,0
+Visualize this,http://book.flowingdata.com/,-48,-375,6.08,url,0
+visual display,http://www.edwardtufte.com/tufte/books_vdqi,-23,-336,6.57,url,0
+Visualizing Data,http://www.amazon.com/gp/product/0596514557?ie=UTF8&tag=informationae-20&linkCode=xm2&camp=1789&creativeASIN=0596514557,-105,-410,2.69,url,0
+The visual,http://www.informationisbeautiful.net/2009/the-visual-miscellaneum/,205,-161,2.93,url,0
+edgedef>id0,id1,weight,angle0,angle1,,
+data,visualisingdata.com,0.01,-9.092,-2.95,,
+infographics,visualisingdata.com,0.01,-8.808,-1.379,,
+blog,visualisingdata.com,0.02,-9.233,-6.091,,
+design,visualisingdata.com,0.01,-9.209,-4.52,,
+infographics,graphicsociology,0.01,-4.787,-8.278,,
+graphics,graphicsociology,0.06,-4.044,-3.566,,
+research,graphicsociology,0.05,-3.74,-5.137,,
+blog,graphicsociology,0.01,-4.635,-6.708,,
+statistics,blog.oecdfactblog.org,0.06,-7.091,-2.896,,
+blog,blog.oecdfactblog.org,0.01,-6.474,-1.325,,
+data,blog.oecdfactblog.org,0,-6.446,0.246,,
+datavisualization,blog.oecdfactblog.org,0.03,-7.936,-4.467,,
+data,datablog,0.01,-8.1,-2.179,,
+infographics,datablog,0.01,-8.054,-3.749,,
+journalism,datablog,0.11,-4.373,-6.891,,
+blog,datablog,0.01,-8.313,-5.32,,
+infographics,datavisualization.ch,0.01,-3.781,-6.268,,
+data,datavisualization.ch,0.01,-4.683,-7.839,,
+design,datavisualization.ch,0.01,-3.959,-4.697,,
+graphics,datavisualization.ch,0.03,-8.442,-3.126,,
+statistics,dataspora.com/blog,0.06,-4.873,-7.949,,
+blog,dataspora.com/blog,0.02,-4.329,-6.378,,
+datamining,dataspora.com/blog,0.16,-8.876,-3.237,,
+analytics,dataspora.com/blog,0.11,-3.727,-4.807,,
+data,flowingdata.com,0.01,-3.25,-6.423,,
+infographics,flowingdata.com,0.01,-9.185,-3.281,,
+statistics,flowingdata.com,0.03,-8.569,-1.71,,
+design,flowingdata.com,0,-9.368,-4.852,,
+design,infosthetics.com,0.01,-8.334,-4.286,,
+data,infosthetics.com,0.01,-7.108,-1.144,,
+infographics,infosthetics.com,0.01,-7.551,-2.715,,
+information,infosthetics.com,0.02,-8.998,-5.857,,
+design,visualcomplexity.com/vc,0.01,-6.584,-4.127,,
+graphics,visualcomplexity.com/vc,0.04,-5.929,-5.698,,
+information,visualcomplexity.com/vc,0.03,-4.809,-8.84,,
+mapping,visualcomplexity.com/vc,0.09,-4.986,-7.269,,
+infographics,visualjournalism.com,0.01,-7.803,-1.578,,
+journalism,visualjournalism.com,0.2,-7.515,-0.007,,
+blog,visualjournalism.com,0.01,-7.854,-4.72,,
+design,visualjournalism.com,0,-8.254,-3.149,,
+infographics,chartporn.org,0.01,-6.043,-8.975,,
+design,chartporn.org,0,-5.868,-5.833,,
+data,chartporn.org,0,-6.006,-7.404,,
+charts,chartporn.org,0.07,-8.889,-4.262,,
+infographics,visualizing.org,0.01,-3.907,-6.676,,
+data,visualizing.org,0.01,-4.793,-7.932,,
+design,visualizing.org,0.01,-4.118,-5.419,,
+infographic,visualizing.org,0.03,-8.939,-4.162,,
+blog,createdigitalmotion.com,0.02,-6.628,-0.823,,
+design,createdigitalmotion.com,0.01,-6.982,-2.394,,
+art,createdigitalmotion.com,0.04,-6.328,-3.965,,
+digital,createdigitalmotion.com,0.25,-8.677,-5.535,,
+design,news.designlanguage.com,0.01,-4.039,-6.29,,
+infographics,news.designlanguage.com,0.01,-4.284,-7.861,,
+blog,news.designlanguage.com,0.01,-4.022,-4.719,,
+graphics,news.designlanguage.com,0.03,-7.814,-3.148,,
+math,xkcd.com,0.28,-4.697,-7.639,,
+science,xkcd.com,0.11,-4.937,-6.068,,
+blog,xkcd.com,0,-6.015,-9.21,,
+via:packrati.us,xkcd.com,0.06,-8.435,-4.497,,
+blog,blog.wolframalpha.com,0.02,-6.781,-3.819,,
+science,blog.wolframalpha.com,0.15,-8.078,-5.39,,
+blogs,blog.wolframalpha.com,0.08,-7.268,-8.531,,
+search,blog.wolframalpha.com,0.28,-9.045,-6.961,,
+inspiration,brainpickings.org,0.03,-6.545,-6.229,,
+culture,brainpickings.org,0.27,-8.832,-7.799,,
+design,brainpickings.org,0,-6.664,-4.658,,
+blog,brainpickings.org,0.01,-6.321,-9.37,,
+science,bang.clearscience.info,0.2,-9.126,-7.793,,
+information,bang.clearscience.info,0.04,-5.857,-9.364,,
+design,bang.clearscience.info,0.01,-6.743,-4.651,,
+visual,bang.clearscience.info,0.22,-7.564,-6.222,,
+technology,radar.oreilly.com,0.11,-5.37,-9.327,,
+blog,radar.oreilly.com,0.02,-4.942,-7.756,,
+news,radar.oreilly.com,0.2,-9.188,-4.615,,
+web2.0,radar.oreilly.com,0.17,-5.313,-6.186,,
+interactive,creativeapplications.net,0.08,-4.375,-8.474,,
+inspiration,creativeapplications.net,0.03,-3.796,-5.332,,
+design,creativeapplications.net,0.01,-4.834,-6.903,,
+technology,creativeapplications.net,0.09,-8.511,-3.761,,
+infographics,informationisbeautiful.net,0.01,-4.661,-8.256,,
+design,informationisbeautiful.net,0,-4.675,-6.685,,
+information,informationisbeautiful.net,0.02,-4.286,-5.114,,
+graphics,informationisbeautiful.net,0.02,-6.557,-3.543,,
+blog,fellinlovewithdata.com,0.02,-6.168,-6.266,,
+data,fellinlovewithdata.com,0.01,-6.336,-7.837,,
+infographics,fellinlovewithdata.com,0.01,-6.797,-9.408,,
+research,fellinlovewithdata.com,0.03,-7.929,-4.695,,
+statistics,blogs.wsj.com/numbersguy,0.06,-3.764,-4.116,,
+blog,blogs.wsj.com/numbersguy,0.02,-3.563,-5.686,,
+economics,blogs.wsj.com/numbersguy,0.21,-8.733,-2.545,,
+data,blogs.wsj.com/numbersguy,0,-3.691,-7.257,,
+news,getprismatic.com,0.26,-6.046,-4.426,,
+twitter,getprismatic.com,0.31,-5.473,-8.615,,
+via:packrati.us,getprismatic.com,0.09,-5.293,-6.52,,
+analytics,petewarden.typepad.com,0.16,-5.821,-9.315,,
+blog,petewarden.typepad.com,0.02,-4.482,-6.173,,
+data,petewarden.typepad.com,0.01,-5.344,-7.744,,
+programming,petewarden.typepad.com,0.06,-9.369,-4.603,,
+maps,indiemaps.com/blog,0.09,-9.214,-6.072,,
+blog,indiemaps.com/blog,0.02,-8.16,-2.931,,
+mapping,indiemaps.com/blog,0.09,-9.175,-4.501,,
+flash,indiemaps.com/blog,0.1,-5.859,-1.36,,
+blog,benfry.com/writing,0.02,-4.176,-5.827,,
+processing,benfry.com/writing,0.1,-5.941,-8.968,,
+design,benfry.com/writing,0.01,-4.198,-7.397,,
+programming,benfry.com/writing,0.07,-8.584,-4.256,,
+design,serialconsign.com,0.01,-7.141,-4.313,,
+blog,serialconsign.com,0.02,-6.934,-2.742,,
+art,serialconsign.com,0.04,-7.067,-5.884,,
+architecture,serialconsign.com,0.37,-5.848,-7.455,,
+design,perceptualedge,0.01,-7.3,-3.661,,
+data,perceptualedge,0.01,-6.557,-1.148,,
+information,perceptualedge,0.03,-6.904,-2.404,,
+statistics,perceptualedge,0.02,-7.46,-4.918,,
+visualisation,excelcharts.com/blog/posts,0.07,-3.398,-7.841,,
+blog,excelcharts.com/blog/posts,0.02,-3.256,-4.699,,
+data,excelcharts.com/blog/posts,0.01,-3.47,-6.27,,
+analytics,excelcharts.com/blog/posts,0.1,-8.963,-3.128,,
+data,datajournalismblog.com,0.01,-8.982,-3.77,,
+journalism,datajournalismblog.com,0.24,-5.944,-6.911,,
+blog,datajournalismblog.com,0.01,-8.926,-5.34,,
+opendata,datajournalismblog.com,0.09,-7.974,-2.199,,
+blog,eagereyes.org,0.02,-7.7,-3.547,,
+data,eagereyes.org,0.01,-6.887,-0.406,,
+design,eagereyes.org,0,-8.016,-1.977,,
+information,eagereyes.org,0.02,-8.475,-5.118,,
+infographic,thefunctionalart.com,0.08,-3.441,-3.855,,
+book,thefunctionalart.com,0.16,-6.382,-6.996,,
+charts,thefunctionalart.com,0.08,-4.7,-5.426,,
+datavisualization,thefunctionalart.com,0.04,-4.794,-8.567,,
+infographics,good.is/infographics,0.01,-7.3,-1.226,,
+design,good.is/infographics,0,-7.697,-2.797,,
+inspiration,good.is/infographics,0.01,-7.723,-4.368,,
+data,good.is/infographics,0,-6.777,0.345,,
+charts,ilovecharts.tumblr.com,0.17,-7.842,-4.549,,
+infographics,ilovecharts.tumblr.com,0.01,-6.546,-9.261,,
+blog,ilovecharts.tumblr.com,0.01,-5.402,-6.12,,
+design,ilovecharts.tumblr.com,0,-6.345,-7.69,,
+infographics,dailyinfographic.com,0.01,-4.912,-7.02,,
+infographic,dailyinfographic.com,0.05,-6.583,-3.878,,
+design,dailyinfographic.com,0,-4.755,-5.449,,
+statistics,dailyinfographic.com,0.01,-5.982,-8.591,,
+infographics,infographicsarchive.com,0.01,-5.541,-8.643,,
+design,infographicsarchive.com,0,-5.55,-7.072,,
+infographic,infographicsarchive.com,0.04,-5.012,-3.931,,
+tools,infographicsarchive.com,0.01,-7.74,-5.501,,
+infographics,visualoop.tumblr.com,0.01,-5.038,-8.417,,
+design,visualoop.tumblr.com,0.01,-5.073,-6.846,,
+infographic,visualoop.tumblr.com,0.04,-5.797,-3.704,,
+inspiration,visualoop.tumblr.com,0.01,-4.188,-5.275,,
+economics,visualizingeconomics.com,0.5,-4.544,-7.487,,
+data,visualizingeconomics.com,0.01,-4.132,-5.916,,
+statistics,visualizingeconomics.com,0.03,-4.134,-4.346,,
+graphics,visualizingeconomics.com,0.02,-9.07,-2.775,,
+blog,spatialanalysis.co.uk,0.02,-7.547,-3.275,,
+gis,spatialanalysis.co.uk,0.31,-5.592,-4.846,,
+mapping,spatialanalysis.co.uk,0.14,-6.033,-0.133,,
+design,spatialanalysis.co.uk,0,-7.936,-1.704,,
+inspiration,storiesthroughdata,0.03,-5.759,-7.279,,
+blog,storiesthroughdata,0.02,-5.708,-5.185,,
+infographics,storiesthroughdata,0.01,-6.672,-9.374,,
+infographics,sethssources.wordpress.com,0.01,-7.928,-1.755,,
+journalism,sethssources.wordpress.com,0.17,-9.086,-5.944,,
+blog,sethssources.wordpress.com,0,-8.007,-3.85,,
+datamining,datawrangling.com,0.22,-5.735,-4.238,,
+data,datawrangling.com,0.01,-5.785,-7.38,,
+blog,datawrangling.com,0.02,-4.789,-5.809,,
+statistics,datawrangling.com,0.03,-6.721,-8.95,,
+infographics,infoisbeautifulawards,0.01,-6.295,-9.253,,
+design,infoisbeautifulawards,0.01,-6.186,-6.111,,
+data,infoisbeautifulawards,0,-6.226,-7.682,,
+informationdesign,infoisbeautifulawards,0.12,-8.675,-4.54,,
+design,xblog,0.01,-7.22,-4.53,,
+blog,xblog,0.02,-7.087,-3.273,,
+webdesign,xblog,0.07,-6.976,-8.3,,
+blogs,xblog,0.07,-9.362,-7.043,,
+infographics,interactive-infographics.com,0.01,-7.174,-2.14,,
+interactive,interactive-infographics.com,0.03,-6.993,-5.282,,
+blog,interactive-infographics.com,0,-7.394,-3.711,,
+interaction,interactive-infographics.com,0.03,-6.173,-6.852,,
+infographics,thewhyaxis.info,0.01,-8.431,-2.476,,
+blog,thewhyaxis.info,0.02,-8.62,-5.618,,
+data,thewhyaxis.info,0.01,-8.21,-0.906,,
+datavisualization,thewhyaxis.info,0.05,-8.721,-4.047,,
+blog,ideasillustrated.com/blog,0.02,-3.716,-5.074,,
+visualisation,ideasillustrated.com/blog,0.04,-4.184,-8.216,,
+infographic,ideasillustrated.com/blog,0.03,-8.153,-3.503,,
+data,ideasillustrated.com/blog,0,-4.352,-6.645,,
+infographics,Ben Fry,0.01,-9.311,-3.14,,
+design,Ben Fry,0.01,-9.288,-4.71,,
+data,Ben Fry,0.01,-9.423,-6.281,,
+processing,Ben Fry,0.06,-8.734,-1.569,,
+portfolio,Daniel A.,0.05,-4.787,-7.666,,
+design,Daniel A.,0.01,-5.232,-6.095,,
+generative,Daniel A.,0.13,-4.501,-4.524,,
+artist,Daniel A.,0.06,-5.457,-9.237,,
+infographics,David McCandless,0.01,-8.682,-2.81,,
+design,David McCandless,0.01,-9.129,-4.381,,
+data,David McCandless,0.01,-8.651,-1.239,,
+blog,David McCandless,0.01,-9.08,-5.951,,
+design,Jer Thorp,0.01,-9.05,-5.363,,
+flash,Jer Thorp,0.16,-2.089,-6.934,,
+art,Jer Thorp,0.03,-8.545,-3.792,,
+processing,Jer Thorp,0.07,-7.337,-2.222,,
+design,Lisa Strausfeld,0.01,-3.721,-5.795,,
+agency,Lisa Strausfeld,0.05,-4.045,-7.366,,
+portfolio,Lisa Strausfeld,0.02,-3.609,-4.224,,
+graphic,Lisa Strausfeld,0.07,-7.301,-2.653,,
+design,Manuel Lima,0.01,-7.061,-4.037,,
+portfolio,Manuel Lima,0.04,-7.536,-5.293,,
+interaction,Manuel Lima,0.11,-7.744,-7.807,,
+information,Manuel Lima,0.02,-6.38,-2.78,,
+design,Marcos Weskamp,0.01,-7.538,-1.74,,
+webdesign,Marcos Weskamp,0.06,-4.283,-6.453,,
+inspiration,Marcos Weskamp,0.02,-6.937,-3.311,,
+art,Marcos Weskamp,0.02,-7.806,-4.882,,
+design,Moritz Stefaner,0.01,-3.164,-4.254,,
+infographics,Moritz Stefaner,0.01,-3.279,-5.825,,
+data,Moritz Stefaner,0.01,-4.021,-7.395,,
+portfolio,Moritz Stefaner,0.03,-9.106,-2.683,,
+design,Stefanie Posavec,0.01,-4.596,-5.28,,
+portfolio,Stefanie Posavec,0.03,-4.394,-6.851,,
+art,Stefanie Posavec,0.03,-4.11,-3.709,,
+infographics,Stefanie Posavec,0.01,-5.164,-8.421,,
+art,Santiago Ortiz,0.05,-8.915,-5.923,,
+flash,Santiago Ortiz,0.12,-4.602,-7.493,,
+interactive,Santiago Ortiz,0.04,-8.563,-2.781,,
+portfolio,Santiago Ortiz,0.02,-8.714,-4.352,,
+data,Jen Lowe,0.01,-9.312,-6.207,,
+processing,Jen Lowe,0.08,-8.035,-1.495,,
+visualisation,Jen Lowe,0.03,-8.896,-3.065,,
+infographics,Jen Lowe,0,-9.059,-4.636,,
+blog,Jason Davies,0.02,-7.241,-3.919,,
+web,Jason Davies,0.13,-4.107,-7.061,,
+javascript,Jason Davies,0.07,-6.789,-5.49,,
+webdesign,Jason Davies,0.06,-7.873,-8.631,,
+javascript,Mike Bostock,0.1,-8.046,-7.192,,
+programming,Mike Bostock,0.04,-7.013,-4.05,,
+research,Mike Bostock,0.01,-8.627,-5.621,,
+blog,Mike Bostock,0,-5.248,-8.762,,
+datavisualization,Willem Tulp,0.09,-4.009,-4.642,,
+dataviz,Willem Tulp,0.14,-7.024,-3.071,,
+infographics,Willem Tulp,0.01,-4.033,-7.784,,
+portfolio,Willem Tulp,0.02,-4.001,-6.213,,
+data,Martin Wattenberg,0.01,-6.667,0.505,,
+design,Martin Wattenberg,0.01,-7.379,-2.636,,
+art,Martin Wattenberg,0.04,-8.176,-4.207,,
+information,Martin Wattenberg,0.02,-7.427,-1.065,,
+design,Edward Tufte,0.01,-4.357,-6.563,,
+graphics,Edward Tufte,0.05,-7.185,-3.421,,
+data,Edward Tufte,0,-5.124,-8.133,,
+information,Edward Tufte,0.02,-3.762,-4.992,,
+design,Jonathan Harris,0.01,-6.425,-9.359,,
+art,Jonathan Harris,0.05,-6.697,-4.646,,
+inspiration,Jonathan Harris,0.03,-6.152,-7.788,,
+blog,Jonathan Harris,0.01,-5.555,-6.217,,
+maps,Eric Fischer,0.09,-6.072,-8.563,,
+geography,Eric Fischer,0.32,-8.992,-6.992,,
+statistics,Eric Fischer,0.02,-7.83,-3.85,,
+art,Eric Fischer,0.02,-7.436,-5.421,,
+design,Fernanda Viegas,0.01,-6.027,-7.573,,
+research,Fernanda Viegas,0.07,-6.533,-4.431,,
+people,Fernanda Viegas,0.15,-4.635,-6.002,,
+art,Fernanda Viegas,0.04,-5.958,-9.144,,
+data,Jerome Cukier,0.01,-3.911,-7.391,,
+blog,Jerome Cukier,0.02,-3.409,-5.82,,
+statistics,Jerome Cukier,0.04,-3.025,-4.249,,
+opendata,Jerome Cukier,0.13,-9.022,-2.678,,
+data,Jeff Clark,0.01,-3.58,-7.088,,
+blog,Jeff Clark,0.02,-3.103,-5.517,,
+design,Jeff Clark,0.01,-3.403,-3.946,,
+statistics,Jeff Clark,0.04,-8.939,-2.375,,
+javascript,Nicolas Garcia,0.1,-4.276,-6.525,,
+programming,Nicolas Garcia,0.04,-6.228,-4.954,,
+informationdesign,Nicolas Garcia,0.06,-5.534,-8.096,,
+library,Nicolas Garcia,0.08,-4.819,-3.383,,
+blog,Gregor Aisch,0.02,-8.467,-5.382,,
+data,Gregor Aisch,0.01,-8.761,-2.24,,
+infographics,Gregor Aisch,0.01,-8.557,-3.811,,
+flash,Gregor Aisch,0.08,-3.346,-6.953,,
+research,Ben Shneiderman,0.08,-5.835,-4.445,,
+usability,Ben Shneiderman,0.39,-4.956,-6.016,,
+people,Ben Shneiderman,0.16,-6.206,-9.158,,
+design,Ben Shneiderman,0.01,-6.266,-7.587,,
+infographics,Francesco Franchi,0.01,-5.792,-7.358,,
+design,Francesco Franchi,0.01,-5.471,-5.787,,
+portfolio,Francesco Franchi,0.03,-5.572,-8.929,,
+inspiration,Francesco Franchi,0.01,-4.581,-4.217,,
+portfolio,Christopher Warnow,0.05,-6.357,-9,,
+infographics,Christopher Warnow,0.01,-5.918,-7.429,,
+design,Christopher Warnow,0,-5.63,-5.858,,
+generative,Christopher Warnow,0.13,-8.69,-4.287,,
+javascript,Irene Ros,0.1,-9.302,-4.653,,
+art,Irene Ros,0.05,-4.849,-7.794,,
+artist,Irene Ros,0.09,-6.714,-9.365,,
+blog,Irene Ros,0.01,-5.095,-6.224,,
+software,Lev Manovich,0.14,-6.132,-3.988,,
+research,Lev Manovich,0.07,-5.136,-7.129,,
+theory,Lev Manovich,0.37,-3.292,-5.559,,
+art,Lev Manovich,0.03,-5.219,-8.7,,
+infographics,Nicholas Felton,0.01,-3.656,-7.594,,
+design,Nicholas Felton,0.01,-3.88,-6.023,,
+graphic,Nicholas Felton,0.07,-4.16,-2.881,,
+inspiration,Nicholas Felton,0.01,-2.618,-4.452,,
+design,Szucs Krisztina,0.01,-6.107,-6.252,,
+datavisualization,Szucs Krisztina,0.04,-6.365,-9.394,,
+blog,Stephen Wolfram,0.02,-5.861,-9.158,,
+math,Stephen Wolfram,0.14,-2.602,-6.016,,
+blogs,Stephen Wolfram,0.04,-5.173,-7.587,,
+programming,Stephen Wolfram,0.01,-7.799,-4.446,,
+processing,Scott Murray,0.12,-5.243,-8.239,,
+portfolio,Scott Murray,0.04,-3.216,-5.098,,
+design,Scott Murray,0,-3.482,-6.669,,
+artist,Scott Murray,0.03,-9.227,-3.527,,
+infographics,Matthew Ericson,0.01,-8.18,-2.525,,
+blog,Matthew Ericson,0.01,-8.773,-5.667,,
+design,Matthew Ericson,0,-8.811,-4.096,,
+data,Matthew Ericson,0,-7.439,-0.954,,
+design,Mahir M.,0.01,-3.641,-7.05,,
+graphic,Mahir M.,0.08,-8.872,-2.338,,
+art,Mahir M.,0.03,-3.74,-3.908,,
+artist,Mahir M.,0.08,-4.2,-5.479,,
+portfolio,Jim Vallandingham,0.05,-7.143,-9.272,,
+infographics,Jim Vallandingham,0.01,-6.169,-6.13,,
+people,Jim Vallandingham,0.1,-9.347,-4.559,,
+datavisualization,Jim Vallandingham,0.04,-5.58,-7.701,,
+portfolio,Martin Oberhaeuser,0.05,-6.75,-9.024,,
+inspiration,Martin Oberhaeuser,0.03,-3.403,-4.311,,
+infographics,Martin Oberhaeuser,0.01,-5.666,-7.453,,
+design,Martin Oberhaeuser,0.01,-5.152,-5.882,,
+portfolio,Benedikt Groß,0.05,-5.965,-7.487,,
+design,Benedikt Groß,0.01,-5.709,-5.916,,
+generative,Benedikt Groß,0.24,-6.596,-4.345,,
+interactive,Benedikt Groß,0.05,-5.422,-9.058,,
+research,Katy Börner,0.08,-7.231,-4.233,,
+people,Katy Börner,0.08,-7.776,-5.804,,
+information,Katy Börner,0.02,-5.333,-8.946,,
+science,Katy Börner,0.04,-3.89,-7.375,,
+artist,Rachel Binx,0.19,-7.97,-2.312,,
+maps,Rachel Binx,0.09,-4.501,-7.025,,
+data,Rachel Binx,0.01,-8.872,-3.883,,
+design,Rachel Binx,0.01,-8.97,-5.454,,
+design,Aaron Koblin,0.01,-3.562,-6.051,,
+art,Aaron Koblin,0.04,-3.371,-2.909,,
+interactive,Aaron Koblin,0.06,-3.851,-4.48,,
+processing,Aaron Koblin,0.08,-3.847,-7.621,,
+art,Golan Levin,0.05,-3.001,-4.734,,
+design,Golan Levin,0.01,-3.323,-6.304,,
+interactive,Golan Levin,0.05,-2.804,-3.163,,
+processing,Golan Levin,0.07,-4.545,-7.875,,
+design,Applied Works,0.01,-7.618,-2.488,,
+agency,Applied Works,0.08,-6.901,-0.917,,
+london,Applied Works,0.4,-4.838,-4.059,,
+webdesign,Applied Works,0.05,-8.771,-5.629,,
+design,BERG,0.01,-7.459,-3.031,,
+agency,BERG,0.07,-6.33,-1.461,,
+interaction,BERG,0.12,-9.315,-6.173,,
+london,BERG,0.38,-7.98,-4.602,,
+design,Bestiario,0.01,-8.652,-3.796,,
+flash,Bestiario,0.16,-7.116,-0.654,,
+inspiration,Bestiario,0.02,-8.508,-5.366,,
+data,Bestiario,0,-8.431,-2.225,,
+design,Catalogtree,0.01,-5.391,-5.501,,
+infographics,Catalogtree,0.01,-5.415,-7.071,,
+portfolio,Catalogtree,0.03,-5.179,-8.642,,
+typography,Catalogtree,0.19,-8.4,-3.93,,
+design,Bloom,0.01,-7.777,-3.165,,
+inspiration,Bloom,0.02,-7.33,-4.735,,
+webdesign,Bloom,0.05,-3.385,-6.306,,
+data,Bloom,0,-7.218,-1.594,,
+design,Density Design,0.01,-4.437,-6.491,,
+infographics,Density Design,0.01,-4.41,-8.061,,
+inspiration,Density Design,0.01,-3.01,-4.92,,
+graphic,Density Design,0.05,-5.73,-3.349,,
+interaction,Envis Precisely,0.2,-4.602,-4.592,,
+interface,Envis Precisely,0.15,-7.286,-2.497,,
+webdesign,Envis Precisely,0.1,-5.181,-6.686,,
+design,Field,0.01,-5.789,-6.214,,
+interactive,Field,0.06,-6.469,-9.356,,
+art,Field,0.03,-5.588,-7.785,,
+inspiration,Field,0.02,-4.974,-4.643,,
+visualisation,Flink Labs,0.07,-8.111,-1.604,,
+data,Flink Labs,0.01,-9.202,-4.745,,
+agency,Flink Labs,0.09,-3.474,-6.316,,
+infographics,Flink Labs,0.01,-8.934,-3.175,,
+infographics,InfoMotor,0.01,-6.42,-9.256,,
+analytics,InfoMotor,0.08,-6.868,-4.543,,
+graph,InfoMotor,0.07,-7.523,-6.114,,
+webdesign,InfoMotor,0.02,-6.078,-7.685,,
+design,Interactive Things,0.01,-8.89,-4.405,,
+agency,Interactive Things,0.07,-8.614,-5.976,,
+interactive,Interactive Things,0.04,-7.516,-1.263,,
+portfolio,Interactive Things,0.02,-8.321,-2.834,,
+maps,Ito World,0.09,-6.858,-8.681,,
+mapping,Ito World,0.14,-3.939,-7.11,,
+data,Ito World,0.01,-7.769,-3.969,,
+map,Ito World,0.15,-8.047,-5.54,,
+design,JESS3,0.01,-5.948,-9.04,,
+inspiration,JESS3,0.03,-5.366,-7.47,,
+agency,JESS3,0.08,-5.187,-5.899,,
+illustration,JESS3,0.15,-8.28,-4.328,,
+analytics,Juice Analytics,0.16,-7.916,-3.508,,
+data,Juice Analytics,0.01,-5.234,-8.221,,
+statistics,Juice Analytics,0.03,-5.243,-6.65,,
+design,Juice Analytics,0,-4.516,-5.079,,
+design,Oblong Industries,0.01,-4.278,-6.518,,
+technology,Oblong Industries,0.11,-3.275,-4.947,,
+interface,Oblong Industries,0.13,-5.192,-8.089,,
+ui,Oblong Industries,0.46,-6.858,-3.377,,
+design,Periscopic,0.01,-8.572,-4.473,,
+data,Periscopic,0.01,-8.32,-1.332,,
+infographics,Periscopic,0.01,-8.305,-2.902,,
+agency,Periscopic,0.06,-9.186,-6.044,,
+design,Pitch Interactive,0.01,-3.244,-3.789,,
+infographics,Pitch Interactive,0.01,-3.404,-5.36,,
+interactive,Pitch Interactive,0.06,-3.327,-2.218,,
+processing,Pitch Interactive,0.07,-3.149,-6.931,,
+design,Potion Design,0.01,-4.914,-7.169,,
+interactive,Potion Design,0.06,-4.898,-8.74,,
+technology,Potion Design,0.04,-7.464,-4.028,,
+agency,Potion Design,0.03,-4.616,-5.598,,
+maps,Rhiza Labs,0.09,-8.428,-0.966,,
+data,Rhiza Labs,0.01,-7.99,-2.537,,
+information,Rhiza Labs,0.03,-7.951,-4.108,,
+mapping,Rhiza Labs,0.12,-8.127,-5.679,,
+science,Seed Media,0.2,-7.031,-9.081,,
+media,Seed Media,0.28,-7.666,-7.511,,
+culture,Seed Media,0.2,-5.69,-5.94,,
+design,Seed Media,0,-6.504,-4.369,,
+blog,Taco Labs,0.02,-3.869,-5.763,,
+design,Taco Labs,0.01,-3.8,-7.333,,
+interface,Taco Labs,0.12,-3.097,-4.192,,
+innovation,Taco Labs,0.17,-9.074,-2.621,,
+design,Vizzuality,0.01,-8.413,-2.378,,
+inspiration,Vizzuality,0.03,-8.115,-5.519,,
+maps,Vizzuality,0.07,-5.287,-7.09,,
+agency,Vizzuality,0.07,-7.472,-3.948,,
+visualisation,OOM,0.07,-7.325,-2.755,,
+design,OOM,0,-8.175,-4.326,,
+architecture,OOM,0.32,-8.99,-5.897,,
+infovis,OOM,0.13,-4.326,-7.468,,
+design,FFunction,0.01,-6.823,-4.168,,
+infographics,FFunction,0.01,-7.049,-5.739,,
+agency,FFunction,0.06,-5.758,-8.881,,
+datavisualization,FFunction,0.05,-7.15,-7.31,,
+design,Plaid,0.01,-8.493,-4.734,,
+agency,Plaid,0.07,-8.043,-6.305,,
+portfolio,Plaid,0.02,-7.928,-3.163,,
+studio,Plaid,0.07,-4.734,-7.876,,
+data,Visup,0.01,-7.659,-2.242,,
+infographics,Visup,0.01,-7.677,-3.813,,
+infovis,Visup,0.15,-2.232,-6.955,,
+opendata,Visup,0.13,-6.927,-5.384,,
+data_visualization,Data Republic,0.27,-8.148,-3.318,,
+data,Data Republic,0.01,-4.903,-6.46,,
+opendata,Data Republic,0.13,-4.833,-8.03,,
+datamining,Data Republic,0.03,-4.164,-4.889,,
+data,Data Market,0.01,-5.454,-5.811,,
+statistics,Data Market,0.03,-5.612,-7.382,,
+research,Data Market,0.03,-9.325,-4.24,,
+opendata,Data Market,0.09,-5.88,-8.953,,
+research,NYT labs,0.08,-4.438,-3.926,,
+innovation,NYT labs,0.28,-5.933,-8.638,,
+technology,NYT labs,0.08,-4.322,-5.496,,
+design,NYT labs,0,-4.993,-7.067,,
+visualisation,tracemedia,0.07,-5.755,-8.518,,
+tools,tracemedia,0.07,-8.188,-3.805,,
+infographics,tracemedia,0.01,-3.153,-5.376,,
+data,tracemedia,0.01,-3.36,-6.947,,
+design,stamen,0.01,-8.731,-5.394,,
+maps,stamen,0.05,-3.716,-6.965,,
+data,stamen,0,-8.541,-2.252,,
+interactive,stamen,0.04,-8.04,-3.823,,
+statistics,R,0.06,-6.351,-8.811,,
+programming,R,0.06,-4.657,-7.241,,
+software,R,0.07,-7.702,-4.099,,
+opensource,R,0.14,-5.396,-5.67,,
+software,Gephi,0.14,-4.561,-4.302,,
+analysis,Gephi,0.28,-4.733,-5.873,,
+graph,Gephi,0.28,-5.952,-7.444,,
+tools,Gephi,0.06,-5.047,-9.015,,
+data,Quadrigram,0.01,-4.573,-7.755,,
+opendata,Quadrigram,0.11,-3.786,-6.184,,
+dataviz,Quadrigram,0.06,-3.882,-3.043,,
+programming,Quadrigram,0.04,-3.872,-4.613,,
+infographics,Many Eyes,0.01,-4.158,-6.527,,
+data,Many Eyes,0.01,-5.013,-8.098,,
+tools,Many Eyes,0.05,-9.086,-3.386,,
+statistics,Many Eyes,0.03,-4.503,-4.956,,
+analytics,Tableau Software,0.16,-4.774,-9.013,,
+software,Tableau Software,0.11,-9.273,-4.301,,
+tools,Tableau Software,0.06,-4.149,-5.872,,
+data,Tableau Software,0.01,-5.565,-7.443,,
+data,Plot.io,0.01,-4.242,-7.012,,
+tools,Plot.io,0.05,-8.637,-3.871,,
+visualisation,Plot.io,0.03,-6.54,-8.583,,
+infographics,Plot.io,0,-3.53,-5.442,,
+infographics,infogr.am,0.01,-5.289,-8.565,,
+tools,infogr.am,0.05,-3.7,-6.994,,
+infographic,infogr.am,0.03,-4.227,-3.852,,
+charts,infogr.am,0.07,-3.653,-5.423,,
+charts,Google chart,0.17,-5.748,-9.006,,
+tools,Google chart,0.04,-5.496,-4.294,,
+graph,Google chart,0.13,-4.381,-7.435,,
+programming,Google chart,0.04,-5.442,-5.865,,
+statistics,Gapminder,0.06,-3.395,-4.209,,
+data,Gapminder,0.01,-3.801,-7.351,,
+information,Gapminder,0.02,-3.239,-5.78,,
+economics,Gapminder,0.19,-6.639,-2.638,,
+javascript,d3,0.1,-4.904,-5.38,,
+library,d3,0.2,-1.677,-6.95,,
+data,d3,0,-5.675,-8.521,,
+graphics,d3,0.02,-5.3,-3.809,,
+javascript,Infovis,0.1,-6.161,-9.27,,
+graph,Infovis,0.15,-9.094,-7.699,,
+charts,Infovis,0.07,-6.795,-6.128,,
+library,Infovis,0.15,-6.39,-4.557,,
+web2.0,wordle,0.3,-8.455,-3.665,,
+design,wordle,0.01,-5.311,-8.378,,
+tools,wordle,0.06,-4.598,-5.236,,
+art,wordle,0.04,-4.48,-6.807,,
+search,wolfram|alpha,0.51,-5.903,-5.47,,
+math,wolfram|alpha,0.17,-6.791,-2.956,,
+tools,wolfram|alpha,0.04,-6.393,-4.213,,
+science,wolfram|alpha,0.1,-5.984,-6.726,,
+infographics,create.visual.ly,0.01,-4.535,-8.146,,
+tools,create.visual.ly,0.04,-3.252,-6.575,,
+infographic,create.visual.ly,0.03,-7.368,-5.004,,
+graphics,create.visual.ly,0.01,-3.415,-3.433,,
+javascript,Polychart,0.1,-7.417,-5.892,,
+data,Polychart,0,-6.116,-9.033,,
+graphs,Polychart,0.22,-1.07,-7.462,,
+tools,Polychart,0.04,-6.842,-4.321,,
+javascript,Miso,0.1,-3.647,-7.193,,
+data,Miso,0.01,-5.895,-8.764,,
+opensource,Miso,0.26,-8.538,-5.622,,
+tools,Miso,0.03,-5.944,-4.051,,
+javascript,envision,0.1,-5.532,-5.091,,
+library,envision,0.2,-3.248,-8.233,,
+graphs,envision,0.17,-4.211,-6.662,,
+graphics,envision,0.01,-4.672,-3.521,,
+maps,geocommons,0.09,-7.643,-0.879,,
+data,geocommons,0.01,-7.879,-2.45,,
+gis,geocommons,0.24,-8.733,-5.592,,
+mapping,geocommons,0.09,-7.08,-4.021,,
+timeline,timeline.verite,0.96,-3.987,-7.54,,
+javascript,timeline.verite,0.06,-8.674,-5.969,,
+tools,timeline.verite,0.02,-7.291,-4.398,,
+interactive,timeline.verite,0.01,-5.945,-9.11,,
+data,DataKind,0.01,-4.462,-6.843,,
+visualisation,DataKind,0.03,-4.969,-8.414,,
+datamining,DataKind,0.06,-7.306,-3.701,,
+datavisualization,DataKind,0.01,-3.223,-5.272,,
+book,Visual Complexity,0.32,-4.287,-5.054,,
+books,Visual Complexity,0.13,-5.53,-8.196,,
+technology,Visual Complexity,0.07,-6.417,-3.484,,
+visual,Visual Complexity,0.19,-4.423,-6.625,,
+books,Visualize this,0.16,-8.043,-6.012,,
+infographics,Visualize this,0.01,-7.426,-2.87,,
+design,Visualize this,0.01,-8.095,-4.441,,
+data,Visualize this,0.01,-7.328,-1.299,,
+books,visual display,0.16,-9.3,-6.158,,
+design,visual display,0.01,-7.857,-3.016,,
+statistics,visual display,0.04,-8.199,-4.587,,
+data,visual display,0,-6.998,-1.446,,
+books,Visualizing Data,0.16,-6.786,-5.312,,
+data,Visualizing Data,0.01,-7.549,-3.741,,
+infovis,Visualizing Data,0.04,-0.137,-6.882,,
+processing,Visualizing Data,0.01,-6.639,-2.17,,
+books,The visual,0.16,-4.273,-7.961,,
+infographics,The visual,0.01,-6.923,-4.819,,
+book,The visual,0.15,-8.476,-6.39,,
+design,The visual,0,-6.902,-3.248,,
+reference,wolfram|alpha,0.11,-4.841,-7.983,,
+resources,xblog,0.21,-7.626,-5.786,,
+business,perceptualedge,0.17,-9.316,-6.174,,
+designer,Manuel Lima,0.16,-8.918,-6.55,,
+data visualization,visualizing.org,0.08,-7.472,-2.906,,

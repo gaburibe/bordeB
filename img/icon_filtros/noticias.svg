@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="36px" height="36px" viewBox="0 0 36 36" enable-background="new 0 0 36 36" xml:space="preserve">
+<g>
+	<path fill="#A6A8AC" d="M28.422,7.579V0H3.789v29.369h3.789V36h24.633V7.579H28.422z M5.684,1.895h20.842v25.58H5.684V1.895z
+		 M30.316,34.105H9.475v-4.736h18.947V9.474h1.895V34.105z"/>
+	<rect x="9.475" y="5.685" fill="#A6A8AC" width="4.736" height="6.631"/>
+	<rect x="16.105" y="6.632" fill="#A6A8AC" width="6.631" height="1.895"/>
+	<rect x="16.105" y="11.368" fill="#A6A8AC" width="4.736" height="1.895"/>
+	<rect x="9.475" y="15.158" fill="#A6A8AC" width="13.262" height="1.895"/>
+	<rect x="9.475" y="20.842" fill="#A6A8AC" width="12.314" height="1.895"/>
+</g>
+<g>
+	<polygon fill="#A6A8AC" points="-97,23.625 -97,11.25 -86.875,17.438 	"/>
+	<path fill="#A6A8AC" d="M-94,1.895c8.88,0,16.105,7.225,16.105,16.105c0,8.88-7.226,16.105-16.105,16.105
+		c-8.881,0-16.105-7.226-16.105-16.105C-110.105,9.119-102.881,1.895-94,1.895 M-94,0c-9.939,0-18,8.058-18,18s8.061,18,18,18
+		c9.941,0,18-8.058,18-18S-84.059,0-94,0L-94,0z"/>
+</g>
+<g>
+	<path fill="#A6A8AC" d="M77.316,0h-1.895v1.895h-0.948V0h-1.896v1.895h-0.947V0h-1.895v1.895h-0.947V0h-1.895v1.895h-0.947V0
+		h-1.895v1.895h-5.684V36h23.684V1.895h-4.736V0z M80.158,3.789v30.316H60.264V3.789h3.789v0.948h1.895V3.789h0.947v0.948h1.895
+		V3.789h0.947v0.948h1.895V3.789h0.947v0.948h1.896V3.789h0.948v0.948h1.895V3.789H80.158z"/>
+	<rect x="63.105" y="9.474" fill="#A6A8AC" width="14.211" height="1.895"/>
+	<rect x="63.105" y="14.211" fill="#A6A8AC" width="14.211" height="1.895"/>
+	<rect x="63.105" y="21.789" fill="#A6A8AC" width="11.368" height="1.895"/>
+	<path fill="#A6A8AC" d="M84.895,31.353L87.263,36l2.368-4.647V6.632h-4.736V31.353z M86.789,8.526h0.947v22.388l-0.473,0.778
+		l-0.475-0.778V8.526z"/>
+	<rect x="84.895" y="3.789" fill="#A6A8AC" width="4.736" height="1.896"/>
+</g>
+<g>
+	<rect x="-45.383" y="5.102" fill="#A6A8AC" width="4.606" height="23.954"/>
+	<rect x="-38.934" y="9.708" fill="#A6A8AC" width="4.606" height="19.348"/>
+	<rect x="-32.484" y="18" fill="#A6A8AC" width="4.606" height="11.056"/>
+	<polygon fill="#A6A8AC" points="-49.989,32.74 -49.989,1.417 -51.832,1.417 -51.832,32.74 -51.832,34.583 -49.989,34.583 
+		-23.271,34.583 -23.271,32.74 	"/>
+</g>
+</svg>

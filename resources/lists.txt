@@ -1,0 +1,156 @@
+//blogs
+http://www.visualisingdata.com/
+graphicsociology http://thesocietypages.org/graphicsociology/
+http://blog.oecdfactblog.org/
+datablog http://www.guardian.co.uk/news/datablog *400180b0ea289f7a7d4bb72a60512121
+http://datavisualization.ch/
+http://www.dataspora.com/blog/
+http://flowingdata.com/
+http://www.infosthetics.com/
+http://www.visualcomplexity.com/vc/
+http://visualjournalism.com/
+http://chartporn.org/
+http://www.visualizing.org/
+http://createdigitalmotion.com/
+http://news.designlanguage.com/
+http://xkcd.com/
+http://blog.wolframalpha.com/
+http://www.brainpickings.org/
+http://bang.clearscience.info/
+http://radar.oreilly.com/
+http://www.creativeapplications.net/
+http://www.informationisbeautiful.net/
+http://fellinlovewithdata.com/
+http://blogs.wsj.com/numbersguy/
+http://getprismatic.com/
+http://petewarden.typepad.com/
+http://indiemaps.com/blog/
+http://benfry.com/writing/
+http://serialconsign.com/
+perceptualedge http://www.perceptualedge.com/ *f50b7c2eefbbfeda9df7c7106f7794f0
+http://www.excelcharts.com/blog/posts/
+http://www.datajournalismblog.com/
+http://eagereyes.org/
+http://www.thefunctionalart.com/
+http://www.good.is/infographics
+http://ilovecharts.tumblr.com/
+http://dailyinfographic.com/
+http://www.infographicsarchive.com/
+http://visualoop.tumblr.com/
+http://visualizingeconomics.com/
+http://spatialanalysis.co.uk/
+storiesthroughdata http://storiesthroughdata.blogs.lincoln.ac.uk/ *2e19abbf937cd3fbe8defa50ed5c772b
+http://sethssources.wordpress.com/
+http://datawrangling.com/
+infoisbeautifulawards http://www.informationisbeautifulawards.com/
+xblog http://www.xplane.com/xblog/data-visualization/ *5fe13c95aa19b3c9d7dd57199ff90001
+http://www.interactive-infographics.com/
+http://thewhyaxis.info/
+http://ideasillustrated.com/blog/
+
+//people
+Ben Fry http://fathom.info
+Daniel A. Becker http://www.daniel-a-becker.de
+David McCandless http://www.davidmccandless.com
+Jer Thorp http://blprnt.com
+Lisa Strausfeld http://www.pentagram.com/
+Manuel Lima http://www.mslima.com/
+Marcos Weskamp http://marumushi.com
+Moritz Stefaner http://moritz.stefaner.eu
+Stefanie Posavec http://itsbeenreal.co.uk
+Santiago Ortiz http://moebio.com
+Jen Lowe http://www.datatelling.com/
+Jason Davies http://www.jasondavies.com/
+Mike Bostock http://bost.ocks.org/mike/
+Willem Tulp http://tulpinteractive.com/
+Martin Wattenberg http://www.bewitched.com/
+Edward Tufte http://www.edwardtufte.com/tufte/
+Jonathan Harris http://number27.org/
+Eric Fischer http://www.flickr.com/photos/walkingsf
+Fernanda Viegas http://fernandaviegas.com/
+Jerome Cukier http://www.jeromecukier.net/
+Jeff Clark http://neoformix.com/
+Nicolas Garcia Belmonte http://philogb.github.com/
+Gregor Aisch http://vis4.net/blog/
+Ben Shneiderman http://www.cs.umd.edu/~ben/
+Francesco Franchi http://www.francescofranchi.com/
+Christopher Warnow http://christopherwarnow.com/portfolio/
+Irene Ros http://ireneros.com/
+Lev Manovich http://lab.softwarestudies.com/
+Nicholas Felton http://feltron.com/
+Szucs Krisztina http://webecset.hu/
+Stephen Wolfram http://blog.stephenwolfram.com/
+Scott Murray http://alignedleft.com/
+Matthew Ericson http://www.ericson.net/content/
+Mahir M. Yavuz http://casualdata.com/
+Jim Vallandingham http://vallandingham.me/
+Martin Oberhaeuser http://www.behance.net/Oberhaeuser *02d8c8580a8cf8d71dacb233a59837f4
+Benedikt Groß http://www.looksgood.de/log/ *8a5f47f18aed6ef570a51e7870a1ea10
+Katy Börner http://ella.slis.indiana.edu/~katy/ *4adf27c7d6b2972d122c82b8eba48ed8
+Rachel Binx http://rachelbinx.com/ *0df2287df3b72aac25a2f4796dc2fdab
+Aaron Koblin http://www.aaronkoblin.com/ *59220fb9b1a203a0e94ca2ca1cb13ccc
+Golan Levin http://www.flong.com/ *d3c6e8bb4ab85dae78fd090d3a102dc1
+
+//companies/studios
+Applied Works http://www.appliedworks.co.uk
+BERG http://berglondon.com
+Bestiario http://www.bestiario.org
+Catalogtree http://catalogtree.net
+Bloom http://bloom.io
+Density Design http://www.densitydesign.org
+Envis Precisely http://envis-precisely.com
+Field http://www.field.io
+Flink Labs http://www.flinklabs.com
+InfoMotor http://www.infomotor.com
+Interactive Things http://interactivethings.com
+Ito World http://itoworld.com *fc291a932d50cb49eb9f7d8ab5a6e133
+JESS3 http://jess3.com
+Juice Analytics http://www.juiceanalytics.com
+Oblong Industries http://oblong.com/
+Periscopic http://periscopic.com
+Pitch Interactive http://www.pitchinteractive.com/
+Potion Design http://potiondesign.com/
+Rhiza Labs http://www.rhizalabs.com
+Seed Media http://seedmediagroup.com
+Taco Labs http://blog.tacolab.com
+Vizzuality http://www.vizzuality.com
+OOM http://www.oomcreative.com/
+FFunction http://ffctn.com/
+Plaid http://www.plaid-creative.com/
+Visup http://www.visup.it/
+Data Republic http://www.thedatarepublic.com/
+Data Market http://datamarket.com/
+NYT labs http://nytlabs.com/
+tracemedia http://tracemedia.co.uk/
+stamen http://stamen.com/ *96351247e3e9de196172b12037f23d0b
+
+//resources/tools/applications/frameworks
+R http://www.r-project.org/
+Gephi http://gephi.org/
+Quadrigram http://quadrigram.com/ *042a61670cea809023f67aaca9db9b53
+Many Eyes http://www-958.ibm.com/software/data/cognos/manyeyes/
+Tableau Software http://www.tableausoftware.com/
+Plot.io http://www.plot.io/
+infogr.am http://www.infogr.am/
+Google chart tools http://code.google.com/apis/chart/
+Gapminder http://www.gapminder.org/
+d3 http://mbostock.github.com/d3/
+Infovis http://thejit.org/
+wordle http://www.wordle.net/
+wolfram|alpha http://www.wolframalpha.com/
+http://create.visual.ly/
+Polychart http://polychart.com/
+Miso http://misoproject.com/
+envision http://www.humblesoftware.com/envision
+geocommons http://geocommons.com/
+timeline.verite http://timeline.verite.co/
+DataKind http://datakind.org/
+
+
+
+//books
+Visual Complexity http://www.visualcomplexity.com/vc/book/
+Visualize this http://book.flowingdata.com/
+visual display of quantitative… http://www.edwardtufte.com/tufte/books_vdqi *760cacee0c634fde4b516984da161582
+Visualizing Data http://www.amazon.com/gp/product/0596514557?ie=UTF8&tag=informationae-20&linkCode=xm2&camp=1789&creativeASIN=0596514557 *ad57e1b340c991a037be148f43d0c41c
+The visual miscellaneum http://www.informationisbeautiful.net/2009/the-visual-miscellaneum/ *545440fb89ab6e97362370d8e69cfd08
