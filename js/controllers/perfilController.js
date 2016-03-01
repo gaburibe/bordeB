@@ -215,7 +215,7 @@ app.controller('perfilController', function($scope, $timeout, $window) {
             align : 'left',
             donut: true,
             growOnHover : false,
-            title : '55%',
+            title : 'Asistencia',
             margin : {
                     top: 20,
                     right: 0,

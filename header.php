@@ -13,6 +13,10 @@
 	<link rel="stylesheet" href="css/owl.transitions.css">
  	<link rel="stylesheet" href="css/style.css">
  	<link rel="stylesheet" href="css/main.css">
+	<meta property="og:type"               content="article" />
+	<meta property="og:title"              content="Borde Político - Jalisco" />
+	<meta property="og:description"        content="Conoce a los legisladores de tu estado" />
+	<meta property="og:image"              content="http://bordepolitico.com/jalisco/img/works/borde-09.png" />
 </head>
 <body ng-cloak>
 <?php $footer = 'white'; ?>

@@ -1,134 +1,46 @@
+<script type="text/javascript">
+Gdebate(g_dips[g_url.id],g_dips[g_url.id].name);//data[0].asistencia)
+function Gdebate(val,nombre){
+	tiempo=val.debate_t.split(":");
+	asistdata='[{"key": "Dip. Nombre Apellido","values": [ [ 1025409600000 , 50] , [ 1028088000000 , 67]  ]}]';
+	grdiv='<nvd3 name="gr_asist" options="stackedAreaChart.options" data=\''+asistdata+'\' class="with-3d-shadow with-transitions"></nvd3>';
+	$("#gr_debnum").attr("data",'[{"key": "Número","values": [ [ 1443657600000 , 0] , [ 1455580800000 , '+val.debate_num+']  ]}]');
+	$("#gr_debtime").attr("data",'[{"key": "Tiempo (Min.)","values": [ [ 1443657600000 , 0] , [ 1455580800000 , '+tiempo[tiempo.length-1]+']  ]}]');
+	
+	//$('nvd3[name="gr_asist"]').attr("data",asistdata);
+
+}
+
+</script>
 <div flex="100" layout="ropw" layout-wrap id="debateSection">
+	<img src="img/works/debate.png" style="width:100%">
 	<div class="graficas" flex-gt-md="50" flex="100" layout="row" layout-align="start start" layout-wrap>
 		<div flex="100">
+
 			<div flex="100" class="graficas-titulo" layout="row" layout-align="start center">
-				<p>Índice de debate</p>
+				<p>La gráfica compara el número de ocasiones que el legislador sube al pleno a debatir algún proyecto determinado</p>
 				<div class="graficas-titulo-icon-rojo debate" layout="row" layout-align="center center">+i</div>
 			</div>
 			<div class="graficas-grafica" flex="100">
-				<nvd3 options="stackedAreaChart.options" data="stackedAreaChart.data" class="with-3d-shadow with-transitions"></nvd3>
+				<nvd3 id="gr_debnum" options="stackedAreaChart.options" data="" class="with-3d-shadow with-transitions"></nvd3>
 			</div>
 		</div>
-		<div flex="100">
-			<div flex="100" class="graficas-titulo" layout="row" layout-align="start center">
-				<p>Polígono de debate por tema</p>
-				<div class="graficas-titulo-icon-rojo debate" layout="row" layout-align="center center">+i</div>
-			</div>
-			<div flex="100">
-				<!--<canvas id="radar" class="chart chart-radar"
-				  chart-data="radarChart.data" chart-labels="radarChart.labels">
-				</canvas>-->
-				<div id="radarChart1"></div>
-			</div>
-		</div>
-	</div>
+	</div> 
+
 	<div class="graficas" flex-gt-md="50" flex="100" layout="row" layout-wrap>
 		<div flex="100">
 			<div flex="100" class="graficas-titulo border-blue" layout="row" layout-align="start center" layout-wrap>
-				<p>Debate por tema</p>
+				<p>La gráfica compara el tiempo total que el legislador sube al pleno a debatir</p>
 				<div class="graficas-titulo-icon-rojo debate" layout="row" layout-align="center center">+i</div>
 				<div flex="100" class="graficas-titulo-puntos" layout="row" layout-align="space-between" layout-wrap>
-					<div layout="column" layout-align="center center" class="graficas-titulo-puntos-cont debate">
-						<div class="cont-ico" layout="column" layout-align="center center">
-							<i class="icon-eco"></i>
-						</div>
-						<p class="num">02</p>
-						<p class="text">Ambiente</p>
-					</div>
-					<div layout="column" layout-align="center center" class="graficas-titulo-puntos-cont debate">
-						<div class="cont-ico" layout="column" layout-align="center center">
-							<i class="icon-edu"></i>
-						</div>
-						<p class="num">02</p>
-						<p class="text">Cultura</p>
-					</div>
-					<div layout="column" layout-align="center center" class="graficas-titulo-puntos-cont debate">
-						<div class="cont-ico" layout="column" layout-align="center center">
-							<i class="icon-jus"></i>
-						</div>
-						<p class="num">02</p>
-						<p class="text">Gob.</p>
-					</div>
-					<div layout="column" layout-align="center center" class="graficas-titulo-puntos-cont debate">
-						<div class="cont-ico" layout="column" layout-align="center center">
-							<i class="icon-candado"></i>
-						</div>
-						<p class="num">02</p>
-						<p class="text">Seguridad</p>
-					</div>
-					<div layout="column" layout-align="center center" class="graficas-titulo-puntos-cont debate">
-						<div class="cont-ico" layout="column" layout-align="center center">
-							<i class="icon-economia"></i>
-						</div>
-						<p class="num">02</p>
-						<p class="text">Economía</p>
-					</div>
-					<div layout="column" layout-align="center center" class="graficas-titulo-puntos-cont debate">
-						<div class="cont-ico" layout="column" layout-align="center center">
-							<i class="icon-desa"></i>
-						</div>
-						<p class="num">02</p>
-						<p class="text">Desarrollo</p>
+					<div class="graficas-grafica" flex="100">
+						<nvd3 id="gr_debtime" options="stackedAreaChart.options" data="" class="with-3d-shadow with-transitions"></nvd3>
 					</div>
 				</div>
 			</div>
-			<div flex="100" class="graficas-reforma" layout="column">
-				<div class="graficas-reforma-content" layout="row" layout-wrap>
-					<p flex="100" class="parrafo">
-						Las reformas que se plantean posibilitaran un andamiaje normativo para la mejor operación de la Educación
-						Media Superior, en un marco de corresponsabilidad entre los órdenes de gobierno...
-					</p>
-					<p flex="100" class="parrafo"><small>Tema específico: Educación / planes de estudio en educación media superior / Universidades / UNAM</small></p>
-					<div flex="100" class="graficas-iconos debate" flex="100" layout="row" layout-align="space-between">
-						<div layout="row" layout-align="center center">
-						    <div class="graficas-titulo-icon-rojo debate" layout="row" layout-align="center center">+i</div>
-						    <a href=""><i class="icon-dowload"></i></a>
-						 </div>
-						<div layout="row">
-							<a href=""><i class="icon-twiter"></i></a>
-							<a href=""><i class="icon-facebook"></i></a>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div flex="100" class="graficas-reforma" layout="column">
-				<div class="graficas-reforma-content" layout="row" layout-wrap>
-					<p flex="100" class="parrafo">
-						Las reformas que se plantean posibilitaran un andamiaje normativo para la mejor operación de la Educación
-						Media Superior, en un marco de corresponsabilidad entre los órdenes de gobierno...
-					</p>
-					<p flex="100" class="parrafo"><small>Tema específico: Educación / planes de estudio en educación media superior / Universidades / UNAM</small></p>
-					<div flex="100" class="graficas-iconos debate" flex="100" layout="row" layout-align="space-between">
-						<div layout="row" layout-align="center center">
-						    <div class="graficas-titulo-icon-rojo debate" layout="row" layout-align="center center">+i</div>
-						    <a href=""><i class="icon-dowload"></i></a>
-						 </div>
-						<div layout="row">
-							<a href=""><i class="icon-twiter"></i></a>
-							<a href=""><i class="icon-facebook"></i></a>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div flex="100" class="graficas-reforma" layout="column">
-				<div class="graficas-reforma-content" layout="row" layout-wrap>
-					<p flex="100" class="parrafo">
-						Las reformas que se plantean posibilitaran un andamiaje normativo para la mejor operación de la Educación
-						Media Superior, en un marco de corresponsabilidad entre los órdenes de gobierno...
-					</p>
-					<p flex="100" class="parrafo"><small>Tema específico: Educación / planes de estudio en educación media superior / Universidades / UNAM</small></p>
-					<div flex="100" class="graficas-iconos debate" flex="100" layout="row" layout-align="space-between">
-						<div layout="row" layout-align="center center">
-						    <div class="graficas-titulo-icon-rojo debate" layout="row" layout-align="center center">+i</div>
-						    <a href=""><i class="icon-dowload"></i></a>
-						 </div>
-						<div layout="row">
-							<a href=""><i class="icon-twiter"></i></a>
-							<a href=""><i class="icon-facebook"></i></a>
-						</div>
-					</div>
-				</div>
-			</div>
+			
+			
+			
 		</div>
 	</div>
 </div>

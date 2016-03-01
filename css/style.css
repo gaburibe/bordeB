@@ -293,6 +293,9 @@
 .icon-pri:before {
 	content: "\e944";
 }
+.icon-ind:before {
+	content: "\e944";
+}
 .icon-propuestas:before {
 	content: "\e945";
 }

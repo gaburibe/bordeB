@@ -3,7 +3,7 @@
 		<div class="separador"></div>
 		<p>Home</p>
 	</div>
-	<a href="perfil.php" class="enlaces-cont">
+	<!-- <a href="perfil.php" class="enlaces-cont">
 		<p>Perfil de Legisladores</p>
 	</a>
 	<a href="" class="enlaces-cont">
@@ -38,5 +38,5 @@
 	</a>
 	<a href="" class="enlaces-cont">
 		<p>Perfil de Legisladores</p>
-	</a>
+	</a> -->
 </div>

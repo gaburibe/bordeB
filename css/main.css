@@ -97,6 +97,7 @@ position: fixed;top: 55px;max-height: 65%;overflow: auto;}
 .home-cont-boxes p{color: white;margin-left: 20px;margin-bottom: 20px}
 .home-cont-boxes-box{background: url();background-size: cover;background-repeat: no-repeat;}
 .home-cont-boxes-box.grande{height: 380px;background: #BCBDBF;margin: 3px}
+.home-cont-boxes-box.grandisima{height: 450px;background: #BCBDBF;margin: 3px}
 .home-cont-boxes-box.chica{height: 180px;background: #BCBDBF;}
 .home-cont-boxes-box.chica.margen{margin-right: 3px}
 .home-cont-boxes-box.mediana{height: 280px;background: #BCBDBF;margin: 3px}

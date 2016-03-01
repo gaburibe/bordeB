@@ -1,12 +1,31 @@
+<script type="text/javascript">
+Gini(g_dips[g_url.id].work,g_dips[g_url.id].name);//data[0].asistencia)
+function Gini(work,nombre){
+	inis=0;
+	for (var i = work.length - 1; i >= 0; i--) {
+        	console.log(work[i]);
+        	if (work[i].type.indexOf("uerdo")>0) {}
+        	if (work[i].type.indexOf("iciativa")>0) {inis+=1;}
+        	
+        };
+	asistdata='[{"key": "Número","values": [ [ 1443657600000 , 0] , [ 1455580800000 , '+inis+']  ]}]';
+	grdiv='<nvd3 name="gr_asist" options="stackedAreaChart.options" data=\''+asistdata+'\' class="with-3d-shadow with-transitions"></nvd3>';
+	$("#gr_iniciativas").attr("data",asistdata);
+	
+	//$('nvd3[name="gr_asist"]').attr("data",asistdata);
+
+}
+
+</script>
 <div flex="100" layout="ropw" layout-wrap>
 	<div class="graficas" flex-gt-md="50" flex="100" layout="row" layout-align="start start" layout-wrap>
 		<div flex="100">
 			<div flex="100" class="graficas-titulo" layout="row" layout-align="start center">
-				<p>Índice de iniciativas</p>
+				<p>Número de iniciativas</p>
 				<div class="graficas-titulo-icon-rojo debate" layout="row" layout-align="center center">+i</div>
 			</div>
 			<div class="graficas-grafica" flex="100">
-				<nvd3 options="stackedAreaChart.options" data="stackedAreaChart.data" class="with-3d-shadow with-transitions"></nvd3>
+				<nvd3 id="gr_iniciativas" options="stackedAreaChart.options" data="" class="with-3d-shadow with-transitions"></nvd3>
 			</div>
 			<div class="graficas-grafica" flex="100" layout="row" layout-align="center center">
 				<div flex="50">
@@ -21,23 +40,15 @@
 				</div>
 			</div>
 		</div>
-		<div flex="100">
-			<div flex="100" class="graficas-titulo" layout="row" layout-align="start center">
-				<p>Información cualitativa de iniciativas</p>
-				<div class="graficas-titulo-icon-rojo debate" layout="row" layout-align="center center">+i</div>
-			</div>
-			<div class="graficas-grafica" flex="100">
-				<nvd3 options="vulnerableChart.options" data="vulnerableChart.data"></nvd3>
-			</div>
-		</div>
+		
 	</div>
 	<div class="graficas" flex-gt-md="50" flex="100" layout="row" layout-wrap>
-		<div flex="100">
+		<div flex="100" bval="inis">
 			<div flex="100" class="graficas-titulo" layout="row" layout-align="start center" layout-wrap>
 				<p>Iniciativas</p>
 				<div class="graficas-titulo-icon-rojo debate" layout="row" layout-align="center center">+i</div>
 			</div>
-			<div ng-repeat="x in [0,1,2]" flex="100" class="graficas-reforma" layout="column">
+			<!-- <div ng-repeat="x in [0,1,2]" flex="100" class="graficas-reforma" layout="column">
 				<div class="graficas-reforma-content" layout="row" layout-wrap>
 					<p flex="100" class="titulo-iniciativa iniciativa">
 						Lorem ipsum dolor sit amet, consectetuer adipiscing
@@ -73,7 +84,7 @@
 						ver +
 					</a>
 				</div>
-			</div>
+			</div> -->
 			<!--<div flex="100" class="graficas-reforma" layout="column">
 				<div class="graficas-reforma-content" layout="row" layout-wrap>
 					<p flex="100" class="titulo-iniciativa iniciativa">
