@@ -538,44 +538,102 @@ $(".dipsel").click(function() {
   subfilter=$(this).attr("subfiter");
   if ($(this).attr("filtsel")=="0" || !$(this).attr("filtsel")) {
   	$(this).attr("filtsel",1)
-  	filterdip(filter,subfilter);
   	$(this).addClass("colored");
+  	addFilter(filter,subfilter);
+  	
   }
   else{
   	$(this).removeClass("colored");
   	$(this).attr("filtsel",0)
   	unfilterdip(filter,subfilter);
+  	//unfilterdip();
+  	//addFilter(filter,subfilter);
   }
   console.log(filter,subfilter);
   
 });
-function filterdip(filter,subfilter){
+var Fmatches={};
+
+function filterdip(filter,subfilter,first){
+	
 	if (filter=="gender") {dipfil="dip_gender"};
 	if (filter=="party") {dipfil="dip_party"};
 	if (filter=="eleccion") {dipfil="dip_eleccion"};
 	if (filter=="themes") {dipfil="tema_"+subfilter};
+	addon="";
 	console.log(filter,subfilter,"tema_"+subfilter)
+	if (first > 1) {
+		addon='[level='+(first-1)+']';
+	}
+	console.log("addon",addon)
 	if (filter=="themes") {
-		$('.adip['+dipfil+'="0"]').hide();
+		// $('.adip['+dipfil+'="0"]').hide();
+		myVals=[];
+		// $('.adip['+dipfil+'!="'+subfilter+'"]').hide();
+		$('.colored[filter="'+filter+'"]').map(function(){
+		fil=$(this).attr('subfiter');
+		  // $('.adip['+dipfil+'!="0"]'+addon).show();
+		  $('.adip['+dipfil+'!="0"]'+addon).attr("level",first);
+		  myVals.push(fil);
+		});
 	}
 	else{
-		$('.adip['+dipfil+'!="'+subfilter+'"]').hide();
+		myVals=[];
+		// $('.adip['+dipfil+'!="'+subfilter+'"]').hide();
+		$('.colored[filter="'+filter+'"]').map(function(){
+		fil=$(this).attr('subfiter');
+		  // $('.adip['+dipfil+'="'+fil+'"]'+addon).show();
+		  $('.adip['+dipfil+'="'+fil+'"]'+addon).attr("level",first)
+		  myVals.push(fil);
+		});
+
 	}
 	
-	console.log("selectt");
+	console.log("filterdip");
+	
+}
+function addFilter(filter,subfilter){
+	Fmatches[filter]={};
+	Fmatches[filter][filter+"+"+subfilter]=1;
+	filterall();
+}
+function filterall(){
+	$('.adip').attr("level",0);
+	console.log(Fmatches);
+	$('.adip').hide();
+	num=1;
+	for(filter in Fmatches){
+		for(subf in Fmatches[filter]){
+			sep=subf.split("+");
+			filterdip(sep[0],sep[1],num)
+			console.log(sep[0],sep[1],num);
+			
+		}
+		num++;
+		
+	}
+	size=$('.adip[level="'+(num-1)+'"]').size();
+	console.log("showing level=\""+(num-1)+"\" ", "with length"+size);
+	$('.adip[level="'+(num-1)+'"]').show();
 }
 function unfilterdip(filter,subfilter){
-	if (filter=="gender") {dipfil="dip_gender"};
-	if (filter=="party") {dipfil="dip_party"};
-	if (filter=="eleccion") {dipfil="dip_eleccion"};
-	if (filter=="themes") {
-		$('.adip['+dipfil+'="0"]').show();
-	}
-	else{
-		$('.adip['+dipfil+'!="'+subfilter+'"]').show();
-	}
+	Fmatches={};
+	$('.adip').attr("level",0);
+	$(".dipsel").removeClass(".colored");
+	$('.adip').show();
+	// Fmatches[filter][filter+"+"+subfilter];
+	//filterall();
+	// if (filter=="gender") {dipfil="dip_gender"};
+	// if (filter=="party") {dipfil="dip_party"};
+	// if (filter=="eleccion") {dipfil="dip_eleccion"};
+	// if (filter=="themes") {
+	// 	$('.adip['+dipfil+'="0"]').show();
+	// }
+	// else{
+	// 	$('.adip['+dipfil+'!="'+subfilter+'"]').show();
+	// }
 	
-	console.log("unselect")
+	console.log("unselect",filter,subfilter,Fmatches);
 }
 </script>
 
